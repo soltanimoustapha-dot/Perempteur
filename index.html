@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Pacte — À deux, on tient.</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Young+Serif&family=Albert+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+:root{
+  --papier:#F6F1E7;
+  --papier-2:#EFE7D6;
+  --carte:#FFFEFB;
+  --encre:#211E1B;
+  --encre-2:#736A5C;
+  --cire:#C1442E;
+  --cire-fonce:#8F2F1E;
+  --cire-clair:#E2694E;
+  --or:#B98A2F;
+  --or-clair:#E4C077;
+  --sauge:#5F7D5C;
+  --ligne:#E7DFCC;
+  --r:22px;
+  --shadow:0 1px 2px rgba(70,55,25,.05),0 14px 34px -8px rgba(70,55,25,.16);
+  --shadow-sm:0 1px 2px rgba(70,55,25,.06),0 4px 12px rgba(70,55,25,.08);
+}
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{height:100%}
+body{font-family:'Albert Sans',system-ui,sans-serif;background:var(--papier);color:var(--encre);font-size:16px;line-height:1.5;overflow:hidden;position:relative}
+body::before{
+  content:"";position:fixed;inset:0;pointer-events:none;z-index:0;opacity:.05;mix-blend-mode:multiply;
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='140' height='140'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/><feColorMatrix type='saturate' values='0'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+}
+#app{max-width:430px;margin:0 auto;height:100dvh;position:relative;background:
+  radial-gradient(1200px 500px at 50% -10%, rgba(193,68,46,.05), transparent 60%),
+  radial-gradient(900px 400px at 100% 0%, rgba(185,138,47,.06), transparent 55%),
+  var(--papier);
+  display:flex;flex-direction:column;overflow:hidden;z-index:1}
+.screen{display:none;flex:1;overflow-y:auto;padding:0 20px calc(104px + env(safe-area-inset-bottom));scrollbar-width:none;animation:entree .38s cubic-bezier(.22,1,.36,1)}
+.screen::-webkit-scrollbar{display:none}
+.screen.active{display:block}
+@keyframes entree{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+h1,h2,h3,.serif{font-family:'Young Serif',serif;font-weight:400;letter-spacing:-.01em}
+button{font-family:inherit;border:none;background:none;cursor:pointer;color:inherit}
+input,select,textarea{font-family:inherit;font-size:16px}
+::selection{background:rgba(193,68,46,.22)}
+
+/* ---------- Onboarding ---------- */
+#scr-onb{display:none;position:fixed;inset:0;z-index:60;color:#F4EFE4;overflow-y:auto;
+  background:
+    radial-gradient(700px 480px at 18% 6%, rgba(226,105,78,.20), transparent 60%),
+    radial-gradient(600px 420px at 100% 0%, rgba(185,138,47,.16), transparent 55%),
+    linear-gradient(175deg,#26221D 0%,#1A1713 60%,#141210 100%);
+}
+#scr-onb.active{display:block}
+#scr-onb::after{
+  content:"";position:absolute;inset:0;pointer-events:none;opacity:.4;
+  background-image:
+    radial-gradient(1.5px 1.5px at 20% 30%, rgba(228,192,119,.5) 50%, transparent 52%),
+    radial-gradient(1.5px 1.5px at 75% 18%, rgba(228,192,119,.35) 50%, transparent 52%),
+    radial-gradient(1px 1px at 60% 55%, rgba(228,192,119,.3) 50%, transparent 52%),
+    radial-gradient(1.5px 1.5px at 90% 70%, rgba(228,192,119,.4) 50%, transparent 52%),
+    radial-gradient(1px 1px at 35% 80%, rgba(228,192,119,.3) 50%, transparent 52%);
+}
+.onb-inner{max-width:430px;margin:0 auto;min-height:100dvh;display:flex;flex-direction:column;justify-content:space-between;padding:56px 28px 40px;position:relative;z-index:1}
+.onb-word{font-family:'Young Serif',serif;font-size:14px;letter-spacing:.32em;text-transform:uppercase;color:var(--or-clair);display:flex;align-items:center;gap:9px}
+.onb-word::before{content:"";width:22px;height:1px;background:linear-gradient(90deg,transparent,var(--or-clair))}
+.onb-h{font-family:'Young Serif',serif;font-size:45px;line-height:1.1;margin:20px 0 16px;text-shadow:0 2px 24px rgba(0,0,0,.25)}
+.onb-h em{font-style:normal;color:#E8B4A8}
+.onb-p{color:#C7BFAE;font-size:16.5px;max-width:34ch}
+.onb-seal{align-self:center;margin:30px 0;filter:drop-shadow(0 12px 28px rgba(0,0,0,.45))}
+.onb-steps{display:flex;flex-direction:column;gap:15px;margin:30px 0}
+.onb-step{display:flex;gap:14px;align-items:flex-start}
+.onb-step .dot{width:30px;height:30px;border-radius:50%;border:1.5px solid var(--or-clair);color:var(--or-clair);display:flex;align-items:center;justify-content:center;font-family:'Young Serif',serif;font-size:14px;flex-shrink:0;margin-top:2px;background:rgba(228,192,119,.06)}
+.onb-step b{display:block;font-weight:600;color:#F4EFE4}
+.onb-step span{color:#9C9381;font-size:14.5px}
+.btn-cire{display:block;width:100%;background:linear-gradient(165deg,var(--cire-clair),var(--cire) 55%,var(--cire-fonce));color:#fff;font-weight:600;font-size:17px;padding:17px;border-radius:18px;text-align:center;transition:transform .15s, box-shadow .15s;box-shadow:0 10px 26px -6px rgba(193,68,46,.55), inset 0 1px 0 rgba(255,255,255,.25);letter-spacing:.01em}
+.btn-cire:active{transform:scale(.97);box-shadow:0 4px 14px -4px rgba(193,68,46,.5), inset 0 1px 0 rgba(255,255,255,.2)}
+
+/* ---------- Header ---------- */
+.hdr{padding:24px 0 8px;display:flex;align-items:flex-end;justify-content:space-between}
+.hdr h1{font-size:30px}
+.hdr .date{font-size:12.5px;color:var(--or);letter-spacing:.16em;text-transform:uppercase;margin-bottom:3px;font-weight:600}
+.avatar{width:42px;height:42px;border-radius:50%;background:linear-gradient(160deg,#2E2A24,var(--encre));color:#F4EFE4;display:flex;align-items:center;justify-content:center;font-size:20px;box-shadow:var(--shadow-sm);border:1px solid rgba(185,138,47,.25)}
+
+/* ---------- Résumé du jour ---------- */
+.jour{background:linear-gradient(155deg,#2E2A24 0%,var(--encre) 55%,#171512 100%);color:#F4EFE4;border-radius:var(--r);padding:21px 22px;margin:18px 0 24px;display:flex;align-items:center;gap:18px;box-shadow:var(--shadow), inset 0 1px 0 rgba(255,255,255,.05);position:relative;overflow:hidden;border:1px solid rgba(185,138,47,.18)}
+.jour::before{content:"";position:absolute;top:-40%;right:-20%;width:220px;height:220px;background:radial-gradient(circle,rgba(185,138,47,.18),transparent 70%);pointer-events:none}
+.jour .num{font-family:'Young Serif',serif;font-size:40px;line-height:1;color:#E8B4A8}
+.jour .lbl{font-size:14px;color:#B0A794}
+.jour .lbl b{display:block;color:#F4EFE4;font-size:15.5px;font-weight:600;margin-bottom:2px}
+.jour .flamme{margin-left:auto;text-align:center;position:relative}
+.jour .flamme .f{font-size:24px;filter:drop-shadow(0 0 10px rgba(255,140,60,.55))}
+.jour .flamme .n{font-family:'Young Serif',serif;color:var(--or-clair);font-size:18px}
+
+/* ---------- Cartes de pacte ---------- */
+.sec-t{font-size:12.5px;letter-spacing:.18em;text-transform:uppercase;color:var(--encre-2);margin:24px 3px 13px;font-weight:700}
+.pacte-card{background:var(--carte);border-radius:var(--r);padding:18px;display:flex;gap:16px;align-items:center;margin-bottom:14px;box-shadow:var(--shadow-sm);border:1px solid var(--ligne);transition:transform .16s, box-shadow .16s}
+.pacte-card:active{transform:scale(.98);box-shadow:var(--shadow-sm)}
+.pacte-card .info{flex:1;min-width:0}
+.pacte-card h3{font-size:18.5px;margin-bottom:3px}
+.pacte-card .meta{font-size:13.5px;color:var(--encre-2)}
+.pacte-card .duo{display:flex;align-items:center;gap:6px;margin-top:9px;font-size:13px;color:var(--encre-2)}
+.mini-av{width:24px;height:24px;border-radius:50%;background:var(--papier-2);display:flex;align-items:center;justify-content:center;font-size:13px;border:1px solid var(--ligne);margin-left:-8px}
+.mini-av:first-child{margin-left:0}
+.etat{font-size:11.5px;font-weight:700;padding:4px 10px;border-radius:99px;letter-spacing:.02em;white-space:nowrap}
+.etat.ok{background:#E9F0E6;color:var(--sauge)}
+.etat.att{background:#F8EFDC;color:#96721F}
+.etat.ko{background:#FBEAE4;color:var(--cire-fonce)}
+
+/* ---------- Sceau ---------- */
+.sceau{position:relative;flex-shrink:0}
+.sceau svg{display:block}
+.sceau .demi{transition:stroke-dashoffset .8s cubic-bezier(.4,0,.2,1)}
+.sceau .coeur{font-size:20px;position:absolute;inset:0;display:flex;align-items:center;justify-content:center}
+
+/* ---------- Détail ---------- */
+.back{display:inline-flex;align-items:center;gap:6px;color:var(--encre-2);font-weight:600;font-size:15px;padding:22px 0 6px;transition:color .15s}
+.back:active{color:var(--cire)}
+.det-hero{text-align:center;padding:12px 0 6px}
+.det-hero .emoji{font-size:42px;filter:drop-shadow(0 6px 14px rgba(70,55,25,.18))}
+.det-hero h2{font-size:27px;margin:8px 0 3px}
+.det-hero .sous{color:var(--encre-2);font-size:14.5px}
+.grand-sceau{margin:24px auto 10px;width:210px;position:relative}
+.grand-sceau .noms{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px}
+.grand-sceau .noms .jr{font-family:'Young Serif',serif;font-size:35px}
+.grand-sceau .noms .st{font-size:12px;color:var(--encre-2);letter-spacing:.12em;text-transform:uppercase}
+.legende{display:flex;justify-content:center;gap:24px;margin:10px 0 20px;font-size:13.5px;color:var(--encre-2)}
+.legende .pt{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:6px;vertical-align:1px}
+.btn-tenu{display:block;width:100%;background:linear-gradient(165deg,var(--cire-clair),var(--cire) 55%,var(--cire-fonce));color:#fff;font-weight:700;font-size:18px;padding:18px;border-radius:18px;box-shadow:0 12px 28px -8px rgba(193,68,46,.5), inset 0 1px 0 rgba(255,255,255,.25);transition:transform .15s}
+.btn-tenu:active{transform:scale(.97)}
+.btn-tenu.fait{background:linear-gradient(165deg,#7C9B79,var(--sauge) 60%,#4A6248);box-shadow:0 10px 22px -8px rgba(95,125,92,.45), inset 0 1px 0 rgba(255,255,255,.2)}
+.partenaire-ligne{display:flex;align-items:center;gap:12px;background:var(--carte);border-radius:18px;padding:14px 16px;margin:16px 0;box-shadow:var(--shadow-sm);border:1px solid var(--ligne)}
+.partenaire-ligne .txt{flex:1;font-size:14.5px}
+.partenaire-ligne .txt b{display:block;font-size:15.5px}
+.btn-nudge{background:var(--papier-2);border:1px solid var(--ligne);border-radius:14px;padding:9px 14px;font-weight:600;font-size:13.5px;transition:transform .15s}
+.btn-nudge:active{transform:scale(.94)}
+.gage{background:linear-gradient(160deg,#FBF3DF,#F7ECD2);border:1px solid #E9D9AC;border-radius:18px;padding:15px 16px;font-size:14.5px;color:#7A6428;display:flex;gap:10px;align-items:flex-start;margin-bottom:20px;box-shadow:var(--shadow-sm)}
+.heat{background:var(--carte);border-radius:var(--r);padding:19px;box-shadow:var(--shadow-sm);margin-bottom:18px;border:1px solid var(--ligne)}
+.heat h3{font-size:16px;margin-bottom:13px}
+.heat-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:7px}
+.hcell{aspect-ratio:1;border-radius:8px;background:var(--papier-2);position:relative;overflow:hidden}
+.hcell .g,.hcell .d{position:absolute;top:0;bottom:0;width:50%}
+.hcell .g{left:0}.hcell .d{right:0}
+.hcell .on-moi{background:var(--cire)}
+.hcell .on-p{background:var(--or)}
+.hcell.futur{opacity:.35}
+.encou{display:flex;gap:8px;overflow-x:auto;padding:4px 0 12px;scrollbar-width:none}
+.encou::-webkit-scrollbar{display:none}
+.encou button{flex-shrink:0;background:var(--carte);border:1px solid var(--ligne);border-radius:99px;padding:9px 15px;font-size:14px;font-weight:500;transition:transform .15s;box-shadow:var(--shadow-sm)}
+.encou button:active{transform:scale(.94)}
+.fil{display:flex;flex-direction:column;gap:8px;margin-bottom:18px}
+.msg{max-width:80%;padding:10px 14px;border-radius:16px;font-size:14.5px;background:var(--carte);box-shadow:var(--shadow-sm);border:1px solid var(--ligne)}
+.msg.moi{align-self:flex-end;background:linear-gradient(155deg,#2E2A24,var(--encre));color:#F4EFE4;border-bottom-right-radius:6px;border-color:transparent}
+.msg.lui{align-self:flex-start;border-bottom-left-radius:6px}
+.msg .qui{display:block;font-size:11.5px;opacity:.6;margin-bottom:1px}
+
+/* ---------- Nouveau pacte ---------- */
+.champ{margin-bottom:20px}
+.champ label{display:block;font-size:12.5px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--encre-2);margin-bottom:9px}
+.champ input[type=text],.champ select{width:100%;background:var(--carte);border:1px solid var(--ligne);border-radius:16px;padding:14px 16px;color:var(--encre);box-shadow:var(--shadow-sm);transition:border-color .15s}
+.champ input[type=text]:focus{outline:none;border-color:var(--cire)}
+.modeles{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.modele{background:var(--carte);border:1.5px solid var(--ligne);border-radius:18px;padding:15px;text-align:left;transition:border-color .15s, transform .15s;box-shadow:var(--shadow-sm)}
+.modele:active{transform:scale(.97)}
+.modele.sel{border-color:var(--cire);background:linear-gradient(160deg,#FDF5F2,#FCEEEA);box-shadow:0 4px 14px -4px rgba(193,68,46,.25)}
+.modele .em{font-size:24px}
+.modele b{display:block;font-size:15px;margin-top:5px}
+.modele span{font-size:12.5px;color:var(--encre-2)}
+.freqs{display:flex;gap:8px}
+.freqs button{flex:1;background:var(--carte);border:1.5px solid var(--ligne);border-radius:14px;padding:11px 4px;font-weight:600;font-size:14px;box-shadow:var(--shadow-sm);transition:transform .15s}
+.freqs button.sel{border-color:var(--cire);background:linear-gradient(160deg,#FDF5F2,#FCEEEA);color:var(--cire-fonce)}
+.invite-box{background:linear-gradient(155deg,#2E2A24 0%,var(--encre) 60%,#171512 100%);color:#F4EFE4;border-radius:var(--r);padding:22px;text-align:center;margin:8px 0 20px;border:1px dashed rgba(185,138,47,.4);position:relative;box-shadow:var(--shadow)}
+.invite-box .code{font-family:'Young Serif',serif;font-size:31px;letter-spacing:.26em;color:var(--or-clair);margin:9px 0;text-shadow:0 2px 12px rgba(185,138,47,.4)}
+.invite-box p{font-size:13.5px;color:#B0A794}
+
+/* ---------- Profil ---------- */
+.stats{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;margin:18px 0 8px}
+.stat{background:var(--carte);border-radius:18px;padding:17px 8px;text-align:center;box-shadow:var(--shadow-sm);border:1px solid var(--ligne)}
+.stat .v{font-family:'Young Serif',serif;font-size:27px;color:var(--cire-fonce)}
+.stat .l{font-size:11.5px;color:var(--encre-2);margin-top:3px;letter-spacing:.02em}
+.badges{display:flex;gap:10px;flex-wrap:wrap;margin-top:13px}
+.badge{background:var(--carte);border-radius:16px;padding:13px 14px;text-align:center;width:calc(33.33% - 7px);box-shadow:var(--shadow-sm);border:1px solid var(--ligne);transition:transform .15s}
+.badge:not(.off){border-color:rgba(185,138,47,.35);background:linear-gradient(160deg,#FFFEFB,#FBF6EA)}
+.badge.off{opacity:.4;filter:grayscale(1)}
+.badge .be{font-size:26px}
+.badge .bn{font-size:11.5px;font-weight:600;margin-top:5px;color:var(--encre-2)}
+
+/* ---------- Tabbar ---------- */
+.tabbar{position:absolute;left:14px;right:14px;bottom:calc(14px + env(safe-area-inset-bottom));background:rgba(255,254,251,.82);backdrop-filter:blur(16px) saturate(1.4);-webkit-backdrop-filter:blur(16px) saturate(1.4);border:1px solid rgba(231,223,204,.9);border-radius:26px;display:flex;justify-content:space-around;align-items:center;padding:9px 10px;z-index:40;box-shadow:0 10px 34px -8px rgba(70,55,25,.22)}
+.tab{display:flex;flex-direction:column;align-items:center;gap:2px;font-size:11.5px;font-weight:700;color:var(--encre-2);width:76px;padding:5px 0;border-radius:14px;transition:color .15s}
+.tab .ti{font-size:21px;transition:transform .15s}
+.tab.on{color:var(--cire)}
+.tab.on .ti{transform:translateY(-1px)}
+.tab-plus{width:54px;height:54px;border-radius:50%;background:linear-gradient(165deg,var(--cire-clair),var(--cire) 55%,var(--cire-fonce));color:#fff;font-size:27px;display:flex;align-items:center;justify-content:center;margin-top:-30px;box-shadow:0 10px 24px -4px rgba(193,68,46,.55), 0 0 0 5px rgba(255,254,251,.9), inset 0 1px 0 rgba(255,255,255,.3);transition:transform .15s}
+.tab-plus:active{transform:scale(.92)}
+
+/* ---------- Toast & confetti ---------- */
+.toast{position:absolute;left:50%;transform:translateX(-50%) translateY(20px);bottom:118px;background:linear-gradient(160deg,#2E2A24,var(--encre));color:#F4EFE4;padding:12px 20px;border-radius:99px;font-size:14.5px;font-weight:500;opacity:0;transition:all .3s;z-index:70;pointer-events:none;white-space:nowrap;max-width:90%;box-shadow:0 12px 30px -6px rgba(0,0,0,.35);border:1px solid rgba(185,138,47,.25)}
+.toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
+@keyframes pop{0%{transform:scale(.6);opacity:0}60%{transform:scale(1.08)}100%{transform:scale(1);opacity:1}}
+.pop{animation:pop .5s cubic-bezier(.34,1.56,.64,1)}
+@media (prefers-reduced-motion: reduce){*{transition:none!important;animation:none!important}}
+.vide{text-align:center;color:var(--encre-2);padding:56px 20px}
+.vide .ve{font-size:46px;filter:drop-shadow(0 6px 14px rgba(70,55,25,.15))}
+.vide p{margin-top:12px;font-size:15px}
+</style>
+</head>
+<body>
+<div id="app">
+
+  <!-- ONBOARDING -->
+  <div id="scr-onb" class="active">
+    <div class="onb-inner">
+      <div>
+        <div class="onb-word">Pacte</div>
+        <h1 class="onb-h">Seul on abandonne.<br><em>À deux, on tient.</em></h1>
+        <p class="onb-p">92 % des résolutions échouent en solo. Scellez un pacte avec un ami, validez chaque jour ensemble, et tenez enfin vos engagements.</p>
+      </div>
+      <div class="onb-seal" id="onb-seal"></div>
+      <div>
+        <div class="onb-steps">
+          <div class="onb-step"><div class="dot">1</div><div><b>Choisissez un objectif</b><span>Sport, lecture, réveil tôt, économies…</span></div></div>
+          <div class="onb-step"><div class="dot">2</div><div><b>Scellez avec un ami</b><span>Le pacte n'existe qu'à deux. Un gage si l'un craque.</span></div></div>
+          <div class="onb-step"><div class="dot">3</div><div><b>Validez chaque jour</b><span>Le sceau se complète quand vous tenez tous les deux.</span></div></div>
+        </div>
+        <button class="btn-cire" data-action="fin-onb">Sceller mon premier pacte</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ACCUEIL -->
+  <div class="screen" id="scr-home">
+    <div class="hdr">
+      <div><div class="date" id="h-date"></div><h1>Mes pactes</h1></div>
+      <div class="avatar">🧑🏽</div>
+    </div>
+    <div class="jour">
+      <div class="num" id="j-num">0/0</div>
+      <div class="lbl"><b>Aujourd'hui</b><span id="j-lbl">pactes tenus</span></div>
+      <div class="flamme"><div class="f">🔥</div><div class="n" id="j-streak">0 j</div></div>
+    </div>
+    <div class="sec-t">En cours</div>
+    <div id="liste-pactes"></div>
+  </div>
+
+  <!-- DÉTAIL -->
+  <div class="screen" id="scr-detail"></div>
+
+  <!-- NOUVEAU -->
+  <div class="screen" id="scr-new">
+    <div class="hdr"><div><div class="date">Nouveau</div><h1>Sceller un pacte</h1></div></div>
+    <div class="champ"><label>Choisir un modèle</label>
+      <div class="modeles" id="modeles"></div>
+    </div>
+    <div class="champ"><label>Ou objectif libre</label>
+      <input type="text" id="n-titre" placeholder="Ex : 10 000 pas par jour">
+    </div>
+    <div class="champ"><label>Fréquence</label>
+      <div class="freqs" id="freqs">
+        <button data-action="freq" data-v="Tous les jours" class="sel">Tous les jours</button>
+        <button data-action="freq" data-v="5j / semaine">5j / sem.</button>
+        <button data-action="freq" data-v="3j / semaine">3j / sem.</button>
+      </div>
+    </div>
+    <div class="champ"><label>Le gage (si l'un craque)</label>
+      <input type="text" id="n-gage" placeholder="Ex : offrir le resto à l'autre 🍝">
+    </div>
+    <div class="invite-box">
+      <p>Code d'invitation à envoyer à votre partenaire</p>
+      <div class="code" id="n-code">PCT-4K7M</div>
+      <p>Le pacte démarre quand il l'accepte. Pas de partenaire, pas de pacte.</p>
+    </div>
+    <button class="btn-cire" data-action="creer">Envoyer l'invitation</button>
+    <div style="height:20px"></div>
+  </div>
+
+  <!-- PROFIL -->
+  <div class="screen" id="scr-profil">
+    <div class="hdr"><div><div class="date">Profil</div><h1>Mouss</h1></div><div class="avatar">🧑🏽</div></div>
+    <div class="stats">
+      <div class="stat"><div class="v" id="p-tenus">0</div><div class="l">jours tenus</div></div>
+      <div class="stat"><div class="v" id="p-serie">0</div><div class="l">meilleure série</div></div>
+      <div class="stat"><div class="v" id="p-fiab">—</div><div class="l">fiabilité</div></div>
+    </div>
+    <div class="sec-t">Sceaux gagnés</div>
+    <div class="badges" id="badges"></div>
+    <div class="sec-t">Premium</div>
+    <div class="pacte-card" data-action="premium" style="cursor:pointer">
+      <div style="font-size:30px">👑</div>
+      <div class="info"><h3>Pacte&nbsp;+</h3><div class="meta">Pactes illimités, stats avancées, gages certifiés — 2,99 €/mois</div></div>
+    </div>
+    <div style="height:20px"></div>
+  </div>
+
+  <!-- TABBAR -->
+  <div class="tabbar" id="tabbar" style="display:none">
+    <button class="tab on" data-action="tab" data-t="home"><span class="ti">🤝</span>Pactes</button>
+    <button class="tab-plus" data-action="tab" data-t="new">+</button>
+    <button class="tab" data-action="tab" data-t="profil"><span class="ti">🏅</span>Profil</button>
+  </div>
+
+  <div class="toast" id="toast"></div>
+</div>
+
+<script>
+/* ================= ÉTAT ================= */
+var AUJ = new Date();
+function iso(d){ return d.toISOString().slice(0,10); }
+function jMoins(n){ var d = new Date(AUJ); d.setDate(d.getDate()-n); return iso(d); }
+
+function seedCheckins(joursMoi, joursLui){
+  var c = {};
+  for (var i = 27; i >= 1; i--) {
+    c[jMoins(i)] = { moi: Math.random() < joursMoi, lui: Math.random() < joursLui };
+  }
+  return c;
+}
+
+var etat = {
+  pacts: [
+    { id: 1, emoji: "🏃", titre: "Courir 20 min", freq: "Tous les jours",
+      partenaire: { nom: "Léa", emoji: "👩🏻" },
+      gage: "Le perdant paie le brunch 🥐",
+      checkins: seedCheckins(.85,.8), demarre: jMoins(27) },
+    { id: 2, emoji: "📚", titre: "Lire 15 pages", freq: "Tous les jours",
+      partenaire: { nom: "Karim", emoji: "🧔🏻" },
+      gage: "Offrir un livre au choix de l'autre",
+      checkins: seedCheckins(.7,.9), demarre: jMoins(18) },
+    { id: 3, emoji: "📵", titre: "Zéro écran après 22h", freq: "5j / semaine",
+      partenaire: { nom: "Sofia", emoji: "👩🏽" },
+      gage: "20 € dans la cagnotte commune",
+      checkins: seedCheckins(.6,.65), demarre: jMoins(10) }
+  ],
+  fil: {
+    1: [ { qui: "lui", nom: "Léa", txt: "6h45, c'était rude mais c'est fait 😤" },
+         { qui: "moi", nom: "Moi", txt: "GG ! Je sors dans 10 min 🏃" } ],
+    2: [ { qui: "lui", nom: "Karim", txt: "Chapitre 12 terminé. Ce bouquin est incroyable." } ],
+    3: []
+  },
+  selModele: null, selFreq: "Tous les jours", detailId: null
+};
+// aujourd'hui : Léa a déjà validé, pas moi
+etat.pacts[0].checkins[iso(AUJ)] = { moi: false, lui: true };
+etat.pacts[1].checkins[iso(AUJ)] = { moi: false, lui: false };
+etat.pacts[2].checkins[iso(AUJ)] = { moi: true, lui: false };
+
+var MODELES = [
+  { em: "🏃", t: "Sport quotidien", s: "20 min minimum" },
+  { em: "📚", t: "Lecture", s: "15 pages / jour" },
+  { em: "🌅", t: "Réveil 6h30", s: "sans snooze" },
+  { em: "📵", t: "Détox écran", s: "rien après 22h" },
+  { em: "💰", t: "Économiser", s: "5 € / jour" },
+  { em: "🧘", t: "Méditation", s: "10 min / jour" }
+];
+
+var BADGES = [
+  { e: "🕯️", n: "Premier sceau", ok: true },
+  { e: "🔥", n: "Série de 7", ok: true },
+  { e: "🌙", n: "Série de 30", ok: false },
+  { e: "🤝", n: "3 pactes actifs", ok: true },
+  { e: "🛡️", n: "Zéro gage payé", ok: true },
+  { e: "👑", n: "100 jours", ok: false }
+];
+
+/* ================= SCEAU SVG ================= */
+var sceauId = 0;
+function sceauSVG(taille, pctMoi, pctLui, coeur){
+  var uid = "s" + (sceauId++);
+  var r = (taille - 14) / 2, c = taille / 2, circ = Math.PI * r; // demi-cercle
+  var offM = circ * (1 - pctMoi), offL = circ * (1 - pctLui);
+  var html = '<div class="sceau" style="width:' + taille + 'px;height:' + taille + 'px">';
+  html += '<svg width="' + taille + '" height="' + taille + '" viewBox="0 0 ' + taille + ' ' + taille + '">';
+  html += '<defs>';
+  html += '<linearGradient id="' + uid + 'm" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E2694E"/><stop offset="1" stop-color="#9E3421"/></linearGradient>';
+  html += '<linearGradient id="' + uid + 'l" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#D9AE5D"/><stop offset="1" stop-color="#9C7327"/></linearGradient>';
+  html += '<filter id="' + uid + 'sh" x="-40%" y="-40%" width="180%" height="180%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#4A3820" flood-opacity="0.22"/></filter>';
+  html += '</defs>';
+  html += '<circle cx="' + c + '" cy="' + c + '" r="' + r + '" fill="none" stroke="#E7DFCC" stroke-width="8"/>';
+  // moitié gauche = moi (cire), moitié droite = partenaire (or)
+  html += '<g filter="url(#' + uid + 'sh)">';
+  html += '<path class="demi" d="M ' + c + ' ' + (c - r) + ' A ' + r + ' ' + r + ' 0 0 0 ' + c + ' ' + (c + r) + '" fill="none" stroke="url(#' + uid + 'm)" stroke-width="8" stroke-linecap="round" stroke-dasharray="' + circ + '" stroke-dashoffset="' + offM + '"/>';
+  html += '<path class="demi" d="M ' + c + ' ' + (c - r) + ' A ' + r + ' ' + r + ' 0 0 1 ' + c + ' ' + (c + r) + '" fill="none" stroke="url(#' + uid + 'l)" stroke-width="8" stroke-linecap="round" stroke-dasharray="' + circ + '" stroke-dashoffset="' + offL + '"/>';
+  html += '</g>';
+  html += '</svg>';
+  if (coeur) html += '<div class="coeur">' + coeur + '</div>';
+  html += '</div>';
+  return html;
+}
+
+/* ================= HELPERS ================= */
+function serie(p){
+  var s = 0, i = 0, auj = p.checkins[iso(AUJ)];
+  if (auj && auj.moi && auj.lui) { s = 1; }
+  i = 1;
+  while (true) {
+    var c = p.checkins[jMoins(i)];
+    if (c && c.moi && c.lui) { s++; i++; } else break;
+    if (i > 400) break;
+  }
+  return s;
+}
+function tenuAuj(p){ var c = p.checkins[iso(AUJ)]; return c && c.moi; }
+function duoAuj(p){ var c = p.checkins[iso(AUJ)]; return c && c.moi && c.lui; }
+
+function toast(t){
+  var el = document.getElementById("toast");
+  el.textContent = t; el.classList.add("show");
+  clearTimeout(el._t);
+  el._t = setTimeout(function(){ el.classList.remove("show"); }, 2400);
+}
+
+/* ================= RENDUS ================= */
+function renderHome(){
+  var jours = ["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"];
+  var mois = ["janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"];
+  document.getElementById("h-date").textContent = jours[AUJ.getDay()] + " " + AUJ.getDate() + " " + mois[AUJ.getMonth()];
+
+  var faits = 0, best = 0;
+  etat.pacts.forEach(function(p){ if (duoAuj(p)) faits++; best = Math.max(best, serie(p)); });
+  document.getElementById("j-num").textContent = faits + "/" + etat.pacts.length;
+  document.getElementById("j-streak").textContent = best + " j";
+
+  var h = "";
+  etat.pacts.forEach(function(p){
+    var c = p.checkins[iso(AUJ)] || { moi: false, lui: false };
+    var badge = duoAuj(p) ? '<span class="etat ok">Scellé ✓</span>' :
+      (c.moi || c.lui) ? '<span class="etat att">En attente</span>' : '<span class="etat ko">À faire</span>';
+    h += '<div class="pacte-card" data-action="ouvrir" data-id="' + p.id + '">';
+    h += sceauSVG(64, c.moi ? 1 : 0, c.lui ? 1 : 0, p.emoji);
+    h += '<div class="info"><h3>' + p.titre + '</h3><div class="meta">🔥 ' + serie(p) + ' j · ' + p.freq + '</div>';
+    h += '<div class="duo"><span class="mini-av">🧑🏽</span><span class="mini-av">' + p.partenaire.emoji + '</span>&nbsp;avec ' + p.partenaire.nom + '</div></div>';
+    h += badge + '</div>';
+  });
+  if (!etat.pacts.length) h = '<div class="vide"><div class="ve">🕯️</div><p>Aucun pacte. Scellez le premier — il vous faut juste un ami.</p></div>';
+  document.getElementById("liste-pactes").innerHTML = h;
+}
+
+function renderDetail(){
+  var p = null;
+  etat.pacts.forEach(function(x){ if (x.id === etat.detailId) p = x; });
+  if (!p) return;
+  var c = p.checkins[iso(AUJ)] || { moi: false, lui: false };
+  var s = serie(p);
+
+  var h = '<button class="back" data-action="tab" data-t="home">‹ Mes pactes</button>';
+  h += '<div class="det-hero"><div class="emoji">' + p.emoji + '</div><h2>' + p.titre + '</h2>';
+  h += '<div class="sous">' + p.freq + ' · avec ' + p.partenaire.nom + ' ' + p.partenaire.emoji + '</div></div>';
+
+  h += '<div class="grand-sceau" id="gs">' + sceauSVG(210, c.moi ? 1 : 0, c.lui ? 1 : 0, "");
+  h += '<div class="noms"><div class="jr">' + s + '</div><div class="st">jours de série</div></div></div>';
+  h += '<div class="legende"><span><span class="pt" style="background:#C1442E"></span>Vous</span><span><span class="pt" style="background:#B98A2F"></span>' + p.partenaire.nom + '</span></div>';
+
+  h += '<button class="btn-tenu' + (c.moi ? ' fait' : '') + '" data-action="tenu" data-id="' + p.id + '">' + (c.moi ? "Tenu aujourd'hui ✓" : "J'ai tenu aujourd'hui") + '</button>';
+
+  var pTxt = c.lui ? "A déjà validé aujourd'hui ✓" : "N'a pas encore validé aujourd'hui";
+  h += '<div class="partenaire-ligne"><div class="mini-av" style="width:38px;height:38px;font-size:20px">' + p.partenaire.emoji + '</div>';
+  h += '<div class="txt"><b>' + p.partenaire.nom + '</b>' + pTxt + '</div>';
+  if (!c.lui) h += '<button class="btn-nudge" data-action="nudge" data-id="' + p.id + '">👋 Relancer</button>';
+  h += '</div>';
+
+  h += '<div class="gage"><span>⚖️</span><div><b>Le gage :</b> ' + p.gage + '</div></div>';
+
+  // heatmap 28 jours
+  h += '<div class="heat"><h3>28 derniers jours</h3><div class="heat-grid">';
+  for (var i = 27; i >= 0; i--) {
+    var ci = p.checkins[jMoins(i)];
+    h += '<div class="hcell"><div class="g ' + (ci && ci.moi ? "on-moi" : "") + '"></div><div class="d ' + (ci && ci.lui ? "on-p" : "") + '"></div></div>';
+  }
+  h += '</div></div>';
+
+  // fil
+  h += '<div class="sec-t">Encouragements</div><div class="fil">';
+  var fil = etat.fil[p.id] || [];
+  fil.forEach(function(m){
+    h += '<div class="msg ' + (m.qui === "moi" ? "moi" : "lui") + '"><span class="qui">' + m.nom + '</span>' + m.txt + '</div>';
+  });
+  if (!fil.length) h += '<div style="color:var(--encre-2);font-size:14px;text-align:center;padding:6px">Envoyez le premier encouragement 👇</div>';
+  h += '</div>';
+  h += '<div class="encou">';
+  ["💪 Tu gères !","🔥 On lâche rien","😤 Allez, dernier effort","🥐 Pense au gage…","🤝 Fier de nous"].forEach(function(t){
+    h += '<button data-action="msg" data-id="' + p.id + '" data-t="' + t + '">' + t + '</button>';
+  });
+  h += '</div><div style="height:16px"></div>';
+
+  document.getElementById("scr-detail").innerHTML = h;
+}
+
+function renderNew(){
+  var h = "";
+  MODELES.forEach(function(m, i){
+    h += '<button class="modele' + (etat.selModele === i ? ' sel' : '') + '" data-action="modele" data-i="' + i + '">';
+    h += '<span class="em">' + m.em + '</span><b>' + m.t + '</b><span>' + m.s + '</span></button>';
+  });
+  document.getElementById("modeles").innerHTML = h;
+  var btns = document.querySelectorAll("#freqs button");
+  btns.forEach(function(b){ b.classList.toggle("sel", b.dataset.v === etat.selFreq); });
+}
+
+function renderProfil(){
+  var tenus = 0, best = 0, total = 0, faits = 0;
+  etat.pacts.forEach(function(p){
+    best = Math.max(best, serie(p));
+    Object.keys(p.checkins).forEach(function(k){
+      total++; if (p.checkins[k].moi) { tenus++; faits++; }
+    });
+  });
+  document.getElementById("p-tenus").textContent = tenus;
+  document.getElementById("p-serie").textContent = best;
+  document.getElementById("p-fiab").textContent = total ? Math.round(100 * faits / total) + " %" : "—";
+  var h = "";
+  BADGES.forEach(function(b){
+    h += '<div class="badge' + (b.ok ? '' : ' off') + '"><div class="be">' + b.e + '</div><div class="bn">' + b.n + '</div></div>';
+  });
+  document.getElementById("badges").innerHTML = h;
+}
+
+/* ================= NAVIGATION ================= */
+function go(t){
+  document.querySelectorAll(".screen").forEach(function(s){ s.classList.remove("active"); });
+  var map = { home: "scr-home", detail: "scr-detail", new: "scr-new", profil: "scr-profil" };
+  document.getElementById(map[t]).classList.add("active");
+  document.querySelectorAll(".tab").forEach(function(b){
+    b.classList.toggle("on", b.dataset.t === t || (t === "detail" && b.dataset.t === "home"));
+  });
+  if (t === "home") renderHome();
+  if (t === "detail") renderDetail();
+  if (t === "new") renderNew();
+  if (t === "profil") renderProfil();
+  document.getElementById(map[t]).scrollTop = 0;
+}
+
+/* ================= ACTIONS ================= */
+var ACTIONS = {
+  "fin-onb": function(){
+    document.getElementById("scr-onb").classList.remove("active");
+    document.getElementById("tabbar").style.display = "flex";
+    go("home");
+  },
+  "tab": function(el){ go(el.dataset.t); },
+  "ouvrir": function(el){ etat.detailId = parseInt(el.dataset.id, 10); go("detail"); },
+  "tenu": function(el){
+    var id = parseInt(el.dataset.id, 10), p = null;
+    etat.pacts.forEach(function(x){ if (x.id === id) p = x; });
+    if (!p) return;
+    var k = iso(AUJ);
+    if (!p.checkins[k]) p.checkins[k] = { moi: false, lui: false };
+    if (p.checkins[k].moi) { toast("Déjà validé aujourd'hui ✓"); return; }
+    p.checkins[k].moi = true;
+    renderDetail();
+    var gs = document.getElementById("gs");
+    if (gs) gs.classList.add("pop");
+    if (p.checkins[k].lui) {
+      toast("🕯️ Pacte scellé pour aujourd'hui — série " + serie(p) + " j !");
+    } else {
+      toast("Validé ! En attente de " + p.partenaire.nom + "…");
+      // démo : le partenaire valide quelques secondes plus tard
+      setTimeout(function(){
+        p.checkins[k].lui = true;
+        if (etat.detailId === id) renderDetail();
+        toast("🕯️ " + p.partenaire.nom + " a validé — pacte scellé !");
+      }, 4000);
+    }
+  },
+  "nudge": function(el){
+    var id = parseInt(el.dataset.id, 10), p = null;
+    etat.pacts.forEach(function(x){ if (x.id === id) p = x; });
+    toast("👋 " + (p ? p.partenaire.nom : "Partenaire") + " a reçu votre relance");
+  },
+  "msg": function(el){
+    var id = parseInt(el.dataset.id, 10);
+    if (!etat.fil[id]) etat.fil[id] = [];
+    etat.fil[id].push({ qui: "moi", nom: "Moi", txt: el.dataset.t });
+    renderDetail();
+  },
+  "modele": function(el){
+    var i = parseInt(el.dataset.i, 10);
+    etat.selModele = (etat.selModele === i) ? null : i;
+    if (etat.selModele !== null) document.getElementById("n-titre").value = "";
+    renderNew();
+  },
+  "freq": function(el){ etat.selFreq = el.dataset.v; renderNew(); },
+  "creer": function(){
+    var libre = document.getElementById("n-titre").value.trim();
+    var m = (etat.selModele !== null) ? MODELES[etat.selModele] : null;
+    if (!m && !libre) { toast("Choisissez un modèle ou un objectif"); return; }
+    var titre = libre || m.t, emoji = m ? m.em : "🎯";
+    var gage = document.getElementById("n-gage").value.trim() || "À définir ensemble";
+    var np = { id: Date.now(), emoji: emoji, titre: titre, freq: etat.selFreq,
+      partenaire: { nom: "En attente…", emoji: "✉️" }, gage: gage, checkins: {}, demarre: iso(AUJ) };
+    np.checkins[iso(AUJ)] = { moi: false, lui: false };
+    etat.pacts.unshift(np);
+    etat.fil[np.id] = [];
+    document.getElementById("n-titre").value = "";
+    document.getElementById("n-gage").value = "";
+    etat.selModele = null;
+    toast("Invitation envoyée ✉️ Le pacte démarre à l'acceptation");
+    // démo : le partenaire accepte
+    setTimeout(function(){
+      np.partenaire = { nom: "Yanis", emoji: "🧑🏻" };
+      toast("🤝 Yanis a accepté votre pacte !");
+      var actif = document.querySelector(".screen.active");
+      if (actif && actif.id === "scr-home") renderHome();
+    }, 5000);
+    go("home");
+  },
+  "premium": function(){ toast("Pacte + — bientôt disponible 👑"); }
+};
+
+document.getElementById("app").addEventListener("click", function(e){
+  var el = e.target.closest("[data-action]");
+  if (!el) return;
+  var fn = ACTIONS[el.dataset.action];
+  if (fn) fn(el);
+});
+
+/* Sceau de l'onboarding (animé) */
+(function(){
+  var host = document.getElementById("onb-seal");
+  host.innerHTML = sceauSVG(150, 0, 0, "🤝");
+  setTimeout(function(){
+    host.innerHTML = sceauSVG(150, 0.001, 0.001, "🤝");
+    var demis = host.querySelectorAll(".demi");
+    requestAnimationFrame(function(){
+      demis.forEach(function(d){ d.style.strokeDashoffset = "0"; });
+    });
+  }, 500);
+})();
+</script>
+</body>
+</html>
