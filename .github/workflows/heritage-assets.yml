@@ -1,0 +1,20 @@
+name: heritage-assets
+on:
+  push:
+    branches: [heritage-assets]
+    paths: ['heritage/queries.json','heritage/fetch.py']
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install requests pillow
+      - run: python heritage/fetch.py
+      - run: |
+          git config user.name "heritage-bot"
+          git config user.email "heritage-bot@users.noreply.github.com"
+          git add heritage
+          git commit -m "Héritage : photos et carte" || true
+          git push
