@@ -1,0 +1,955 @@
+{
+ "couscous": [
+  {
+   "file": "couscous_0.jpg",
+   "title": "File:Couscous aux légumes de saison, Sayada 27 mars 2017.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Habib M'henni",
+   "page": "https://commons.wikimedia.org/wiki/File:Couscous_aux_l%C3%A9gumes_de_saison,_Sayada_27_mars_2017.jpg"
+  },
+  {
+   "file": "couscous_1.jpg",
+   "title": "File:Couscous légumes calamars, Tunisie, 1 avril 2017.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Habib M'henni",
+   "page": "https://commons.wikimedia.org/wiki/File:Couscous_l%C3%A9gumes_calamars,_Tunisie,_1_avril_2017.jpg"
+  },
+  {
+   "file": "couscous_2.jpg",
+   "title": "File:Couscous aux légumes, kédid, Tunisie, 2020.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Habib M'henni",
+   "page": "https://commons.wikimedia.org/wiki/File:Couscous_aux_l%C3%A9gumes,_k%C3%A9did,_Tunisie,_2020.jpg"
+  },
+  {
+   "file": "couscous_3.jpg",
+   "title": "File:Plat de couscous de maïs accompagné de légumes sautés.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "Geugeor",
+   "page": "https://commons.wikimedia.org/wiki/File:Plat_de_couscous_de_ma%C3%AFs_accompagn%C3%A9_de_l%C3%A9gumes_saut%C3%A9s.jpg"
+  }
+ ],
+ "tajine": [
+  {
+   "file": "tajine_0.jpg",
+   "title": "File:Tajine de Veau aux Pruneaux (à emporter) Le Quai (Miribel) en février 2023.jpg",
+   "license": "CC0",
+   "artist": "Benoît Prieur",
+   "page": "https://commons.wikimedia.org/wiki/File:Tajine_de_Veau_aux_Pruneaux_(%C3%A0_emporter)_Le_Quai_(Miribel)_en_f%C3%A9vrier_2023.jpg"
+  },
+  {
+   "file": "tajine_1.jpg",
+   "title": "File:IB tajine 03.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "Iron Bishop",
+   "page": "https://commons.wikimedia.org/wiki/File:IB_tajine_03.jpg"
+  },
+  {
+   "file": "tajine_2.jpg",
+   "title": "File:Tajin aux pruneaux.JPG",
+   "license": "CC BY-SA 4.0",
+   "artist": "Basile dit : Basili",
+   "page": "https://commons.wikimedia.org/wiki/File:Tajin_aux_pruneaux.JPG"
+  },
+  {
+   "file": "tajine_3.jpg",
+   "title": "File:طاجين7.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Samirra amal",
+   "page": "https://commons.wikimedia.org/wiki/File:%D8%B7%D8%A7%D8%AC%D9%8A%D9%867.jpg"
+  }
+ ],
+ "thieb": [
+  {
+   "file": "thieb_0.jpg",
+   "title": "File:Thieboudienne.JPG",
+   "license": "Public domain",
+   "artist": "KVDP",
+   "page": "https://commons.wikimedia.org/wiki/File:Thieboudienne.JPG"
+  },
+  {
+   "file": "thieb_1.jpg",
+   "title": "File:Ceebu Jen, Senegalese dish.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Alweaver2",
+   "page": "https://commons.wikimedia.org/wiki/File:Ceebu_Jen,_Senegalese_dish.jpg"
+  },
+  {
+   "file": "thieb_2.jpg",
+   "title": "File:Ceebu jen, Senegalese cuisine.JPG",
+   "license": "CC BY-SA 4.0",
+   "artist": "Alweaver2",
+   "page": "https://commons.wikimedia.org/wiki/File:Ceebu_jen,_Senegalese_cuisine.JPG"
+  },
+  {
+   "file": "thieb_3.jpg",
+   "title": "File:Partage d'un repas de Thiéboudienne rouge à Ndiaganiao, Sénégal.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "CelmaKoumba",
+   "page": "https://commons.wikimedia.org/wiki/File:Partage_d%27un_repas_de_Thi%C3%A9boudienne_rouge_%C3%A0_Ndiaganiao,_S%C3%A9n%C3%A9gal.jpg"
+  }
+ ],
+ "jollof": [
+  {
+   "file": "jollof_0.jpg",
+   "title": "File:Jollof rice with vegetable.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Segun Famisa",
+   "page": "https://commons.wikimedia.org/wiki/File:Jollof_rice_with_vegetable.jpg"
+  },
+  {
+   "file": "jollof_1.jpg",
+   "title": "File:Jollof rice and tomato stew.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Maame1Yaa",
+   "page": "https://commons.wikimedia.org/wiki/File:Jollof_rice_and_tomato_stew.jpg"
+  },
+  {
+   "file": "jollof_2.jpg",
+   "title": "File:Ghana Jollof Rice with Chicken.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Queen Murja10",
+   "page": "https://commons.wikimedia.org/wiki/File:Ghana_Jollof_Rice_with_Chicken.jpg"
+  },
+  {
+   "file": "jollof_3.jpg",
+   "title": "File:Jollof (Jollof- Rice).jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "DromoTetteh",
+   "page": "https://commons.wikimedia.org/wiki/File:Jollof_(Jollof-_Rice).jpg"
+  }
+ ],
+ "dorowat": [
+  {
+   "file": "dorowat_0.jpg",
+   "title": "File:Ethiopian wat.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "stu_spivack",
+   "page": "https://commons.wikimedia.org/wiki/File:Ethiopian_wat.jpg"
+  },
+  {
+   "file": "dorowat_1.jpg",
+   "title": "File:Injera and doro wat.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "Edsel Little",
+   "page": "https://commons.wikimedia.org/wiki/File:Injera_and_doro_wat.jpg"
+  },
+  {
+   "file": "dorowat_2.jpg",
+   "title": "File:Injera and doro wat - 49337093131.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "Edsel Little",
+   "page": "https://commons.wikimedia.org/wiki/File:Injera_and_doro_wat_-_49337093131.jpg"
+  },
+  {
+   "file": "dorowat_3.jpg",
+   "title": "File:Three Muses Doro Wat New Orleans June 2018 2.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Infrogmation of New Orleans",
+   "page": "https://commons.wikimedia.org/wiki/File:Three_Muses_Doro_Wat_New_Orleans_June_2018_2.jpg"
+  }
+ ],
+ "mafe": [
+  {
+   "file": "mafe_0.jpg",
+   "title": "File:Mafé Sénégalais.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Nicolas PHULPIN",
+   "page": "https://commons.wikimedia.org/wiki/File:Maf%C3%A9_S%C3%A9n%C3%A9galais.jpg"
+  },
+  {
+   "file": "mafe_1.jpg",
+   "title": "File:African Chicken Peanut Stew (37673757141).jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "A Healthier Michigan from Detroit, United States",
+   "page": "https://commons.wikimedia.org/wiki/File:African_Chicken_Peanut_Stew_(37673757141).jpg"
+  },
+  {
+   "file": "mafe_2.jpg",
+   "title": "File:Sauce d'Arachide 01.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Akouete",
+   "page": "https://commons.wikimedia.org/wiki/File:Sauce_d%27Arachide_01.jpg"
+  },
+  {
+   "file": "mafe_3.jpg",
+   "title": "File:Sauce d'Arachide 04.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Akouete",
+   "page": "https://commons.wikimedia.org/wiki/File:Sauce_d%27Arachide_04.jpg"
+  }
+ ],
+ "bobotie": [
+  {
+   "file": "bobotie_0.jpg",
+   "title": "File:Bobotie, South African dish.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Olga Ernst",
+   "page": "https://commons.wikimedia.org/wiki/File:Bobotie,_South_African_dish.jpg"
+  },
+  {
+   "file": "bobotie_1.jpg",
+   "title": "File:Bobotie South Africa.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Olivier Lemoine Photographe professionnel vigne / vin, Beaune, Bourgogne, (https",
+   "page": "https://commons.wikimedia.org/wiki/File:Bobotie_South_Africa.jpg"
+  },
+  {
+   "file": "bobotie_2.jpg",
+   "title": "File:Falmouth, Cornwall - Bobotie (Lightly spiced mutton, almonds and raisins with a baked egg and cream topping) served with raisin rice and chutney.jpg",
+   "license": "CC BY 2.0",
+   "artist": "CharmaineZoe's Marvelous Melange from England",
+   "page": "https://commons.wikimedia.org/wiki/File:Falmouth,_Cornwall_-_Bobotie_(Lightly_spiced_mutton,_almonds_and_raisins_with_a_baked_egg_and_cream_topping)_served_with_raisin_rice_and_chutney.jpg"
+  },
+  {
+   "file": "bobotie_3.jpg",
+   "title": "File:Bitesized morsel of bobotie.jpg",
+   "license": "CC BY 2.0",
+   "artist": "Stefan Magdalinski from Cape Town, South Africa",
+   "page": "https://commons.wikimedia.org/wiki/File:Bitesized_morsel_of_bobotie.jpg"
+  }
+ ],
+ "mansaf": [
+  {
+   "file": "mansaf_0.jpg",
+   "title": "File:Mansaf 1.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Abdulla aljammal",
+   "page": "https://commons.wikimedia.org/wiki/File:Mansaf_1.jpg"
+  },
+  {
+   "file": "mansaf_1.jpg",
+   "title": "File:Mansaf, the traditional dish of Jordan.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Jktab",
+   "page": "https://commons.wikimedia.org/wiki/File:Mansaf,_the_traditional_dish_of_Jordan.jpg"
+  },
+  {
+   "file": "mansaf_2.jpg",
+   "title": "File:Préparation du mansaf-Jordanie (8).jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Ji-Elle",
+   "page": "https://commons.wikimedia.org/wiki/File:Pr%C3%A9paration_du_mansaf-Jordanie_(8).jpg"
+  },
+  {
+   "file": "mansaf_3.jpg",
+   "title": "File:سدر منسف 02.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Fjmustak",
+   "page": "https://commons.wikimedia.org/wiki/File:%D8%B3%D8%AF%D8%B1_%D9%85%D9%86%D8%B3%D9%81_02.jpg"
+  }
+ ],
+ "plov": [
+  {
+   "file": "plov_0.jpg",
+   "title": "File:Palov ko‘tarayotgan xizmatchi.jpg",
+   "license": "CC BY 4.0",
+   "artist": "AIDEPCUL",
+   "page": "https://commons.wikimedia.org/wiki/File:Palov_ko%E2%80%98tarayotgan_xizmatchi.jpg"
+  },
+  {
+   "file": "plov_1.jpg",
+   "title": "File:Uzbekistan style plov in Japan.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "赤猫法師",
+   "page": "https://commons.wikimedia.org/wiki/File:Uzbekistan_style_plov_in_Japan.jpg"
+  },
+  {
+   "file": "plov_2.jpg",
+   "title": "File:10 kg plov at wedding ceremony.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Sinchalak Musulmon",
+   "page": "https://commons.wikimedia.org/wiki/File:10_kg_plov_at_wedding_ceremony.jpg"
+  },
+  {
+   "file": "plov_3.jpg",
+   "title": "File:Central Asian Plov Centre in Tashkent.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Adam Harangozó",
+   "page": "https://commons.wikimedia.org/wiki/File:Central_Asian_Plov_Centre_in_Tashkent.jpg"
+  }
+ ],
+ "khachapuri": [
+  {
+   "file": "khachapuri_0.jpg",
+   "title": "File:Khachapuri Adjaruli with egg and butter 2016.jpg",
+   "license": "CC BY 4.0",
+   "artist": "Eugene Krasnaok",
+   "page": "https://commons.wikimedia.org/wiki/File:Khachapuri_Adjaruli_with_egg_and_butter_2016.jpg"
+  },
+  {
+   "file": "khachapuri_1.jpg",
+   "title": "File:Making of Adjarian Khachapuri (2).jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "Aleksandr Zykov",
+   "page": "https://commons.wikimedia.org/wiki/File:Making_of_Adjarian_Khachapuri_(2).jpg"
+  },
+  {
+   "file": "khachapuri_2.jpg",
+   "title": "File:Adjarian khachapuri in an oven.png",
+   "license": "CC BY-SA 4.0",
+   "artist": "ლევან ქოქიაშვილი",
+   "page": "https://commons.wikimedia.org/wiki/File:Adjarian_khachapuri_in_an_oven.png"
+  },
+  {
+   "file": "khachapuri_3.jpg",
+   "title": "File:Adjarian Khachapuri ingredients.png",
+   "license": "CC BY-SA 4.0",
+   "artist": "GeoO",
+   "page": "https://commons.wikimedia.org/wiki/File:Adjarian_Khachapuri_ingredients.png"
+  }
+ ],
+ "biryani": [
+  {
+   "file": "biryani_0.jpg",
+   "title": "File:Chicken Hyderabadi Biryani.JPG",
+   "license": "CC BY-SA 4.0",
+   "artist": "Dheerajk88",
+   "page": "https://commons.wikimedia.org/wiki/File:Chicken_Hyderabadi_Biryani.JPG"
+  },
+  {
+   "file": "biryani_1.jpg",
+   "title": "File:Hyderabadi egg biryani.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Ravi Dwivedi",
+   "page": "https://commons.wikimedia.org/wiki/File:Hyderabadi_egg_biryani.jpg"
+  },
+  {
+   "file": "biryani_2.jpg",
+   "title": "File:Prawn Biryani, Hyderabad.jpg",
+   "license": "CC BY 2.0",
+   "artist": "Abhinaba Basu",
+   "page": "https://commons.wikimedia.org/wiki/File:Prawn_Biryani,_Hyderabad.jpg"
+  },
+  {
+   "file": "biryani_3.jpg",
+   "title": "File:\"Hyderabadi Dum Biryani\".jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Mahi Tatavarty",
+   "page": "https://commons.wikimedia.org/wiki/File:%22Hyderabadi_Dum_Biryani%22.jpg"
+  }
+ ],
+ "momo": [
+  {
+   "file": "momo_0.jpg",
+   "title": "File:Steamed Momos - KOLKATA.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "TAPAS KUMAR HALDER",
+   "page": "https://commons.wikimedia.org/wiki/File:Steamed_Momos_-_KOLKATA.jpg"
+  },
+  {
+   "file": "momo_1.jpg",
+   "title": "File:Veg Momo 1.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Gaurav Dhwaj Khadka",
+   "page": "https://commons.wikimedia.org/wiki/File:Veg_Momo_1.jpg"
+  },
+  {
+   "file": "momo_2.jpg",
+   "title": "File:Momo 2.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Gaurav Dhwaj Khadka",
+   "page": "https://commons.wikimedia.org/wiki/File:Momo_2.jpg"
+  },
+  {
+   "file": "momo_3.jpg",
+   "title": "File:Buff Momos.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Gaurav Dhwaj Khadka",
+   "page": "https://commons.wikimedia.org/wiki/File:Buff_Momos.jpg"
+  }
+ ],
+ "pho": [
+  {
+   "file": "pho_0.jpg",
+   "title": "File:Pho Bo by Banh & Mee in Kirkgate Market.jpg",
+   "license": "CC0",
+   "artist": "Andy Li",
+   "page": "https://commons.wikimedia.org/wiki/File:Pho_Bo_by_Banh_%26_Mee_in_Kirkgate_Market.jpg"
+  },
+  {
+   "file": "pho_1.jpg",
+   "title": "File:Pho on the window table.jpg",
+   "license": "CC0",
+   "artist": "Andy Li",
+   "page": "https://commons.wikimedia.org/wiki/File:Pho_on_the_window_table.jpg"
+  },
+  {
+   "file": "pho_2.jpg",
+   "title": "File:Beef Pho (M) - Milk No Sugar.jpg",
+   "license": "CC0",
+   "artist": "Andy Li",
+   "page": "https://commons.wikimedia.org/wiki/File:Beef_Pho_(M)_-_Milk_No_Sugar.jpg"
+  },
+  {
+   "file": "pho_3.jpg",
+   "title": "File:Phở bò in a German restaurant 02.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Kritzolina",
+   "page": "https://commons.wikimedia.org/wiki/File:Ph%E1%BB%9F_b%C3%B2_in_a_German_restaurant_02.jpg"
+  }
+ ],
+ "rendang": [
+  {
+   "file": "rendang_0.jpg",
+   "title": "File:Lamb rendang.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Lamb_rendang.jpg"
+  },
+  {
+   "file": "rendang_1.jpg",
+   "title": "File:Beef Rendang..JPG",
+   "license": "CC0",
+   "artist": "Miansari66",
+   "page": "https://commons.wikimedia.org/wiki/File:Beef_Rendang..JPG"
+  },
+  {
+   "file": "rendang_2.jpg",
+   "title": "File:Randang Limpo (rendang limpa).jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Gunawan Kartapranata",
+   "page": "https://commons.wikimedia.org/wiki/File:Randang_Limpo_(rendang_limpa).jpg"
+  },
+  {
+   "file": "rendang_3.jpg",
+   "title": "File:Katupek Sayua Randang Limpo (ketupat sayur rendang limpa).jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Gunawan Kartapranata",
+   "page": "https://commons.wikimedia.org/wiki/File:Katupek_Sayua_Randang_Limpo_(ketupat_sayur_rendang_limpa).jpg"
+  }
+ ],
+ "laksa": [
+  {
+   "file": "laksa_0.jpg",
+   "title": "File:Thai laksa dish at Yim Thai Yeronga, Queensland.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Chris Olszewski",
+   "page": "https://commons.wikimedia.org/wiki/File:Thai_laksa_dish_at_Yim_Thai_Yeronga,_Queensland.jpg"
+  },
+  {
+   "file": "laksa_1.jpg",
+   "title": "File:Balik Pulau Laksa (3134936963).jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "Marufish from Alor Setar, Malaysia",
+   "page": "https://commons.wikimedia.org/wiki/File:Balik_Pulau_Laksa_(3134936963).jpg"
+  },
+  {
+   "file": "laksa_2.jpg",
+   "title": "File:Chicken curry served in an Indonesian restaurant; February 2010.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "Alpha from Melbourne, Australia",
+   "page": "https://commons.wikimedia.org/wiki/File:Chicken_curry_served_in_an_Indonesian_restaurant;_February_2010.jpg"
+  },
+  {
+   "file": "laksa_3.jpg",
+   "title": "File:My Mum's Laksa - Laksa Me (1193968200).jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "Alpha from Melbourne, Australia",
+   "page": "https://commons.wikimedia.org/wiki/File:My_Mum%27s_Laksa_-_Laksa_Me_(1193968200).jpg"
+  }
+ ],
+ "ramen": [
+  {
+   "file": "ramen_0.jpg",
+   "title": "File:Tonkotsu ramen in Tokyo.jpg",
+   "license": "CC0",
+   "artist": "Syced",
+   "page": "https://commons.wikimedia.org/wiki/File:Tonkotsu_ramen_in_Tokyo.jpg"
+  },
+  {
+   "file": "ramen_1.jpg",
+   "title": "File:Tonkotsu Ramen - Goemon Ramen Bar 2023-06-06.jpg",
+   "license": "CC0",
+   "artist": "Andy Li",
+   "page": "https://commons.wikimedia.org/wiki/File:Tonkotsu_Ramen_-_Goemon_Ramen_Bar_2023-06-06.jpg"
+  },
+  {
+   "file": "ramen_2.jpg",
+   "title": "File:Tonkotsu Ramen Special, Hakata Choten, Paris 001.jpg",
+   "license": "CC BY 2.0",
+   "artist": "Guilhem Vellut from Paris, France",
+   "page": "https://commons.wikimedia.org/wiki/File:Tonkotsu_Ramen_Special,_Hakata_Choten,_Paris_001.jpg"
+  },
+  {
+   "file": "ramen_3.jpg",
+   "title": "File:Char Siu Tonkotsu Ramen - Shogun Ramen 2023-10-11.jpg",
+   "license": "CC0",
+   "artist": "Andy Li",
+   "page": "https://commons.wikimedia.org/wiki/File:Char_Siu_Tonkotsu_Ramen_-_Shogun_Ramen_2023-10-11.jpg"
+  }
+ ],
+ "kimchi": [
+  {
+   "file": "kimchi_0.jpg",
+   "title": "File:Korean.cuisine-Kimchi jjigae-01.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "by avlxyz",
+   "page": "https://commons.wikimedia.org/wiki/File:Korean.cuisine-Kimchi_jjigae-01.jpg"
+  },
+  {
+   "file": "kimchi_1.jpg",
+   "title": "File:Kimchi jjigae - Kogi, Brighton 2023-11-15.jpg",
+   "license": "CC0",
+   "artist": "Andy Li",
+   "page": "https://commons.wikimedia.org/wiki/File:Kimchi_jjigae_-_Kogi,_Brighton_2023-11-15.jpg"
+  },
+  {
+   "file": "kimchi_2.jpg",
+   "title": "File:Kimchi jjigae - San Francisco, CA.jpg",
+   "license": "CC0",
+   "artist": "Daderot",
+   "page": "https://commons.wikimedia.org/wiki/File:Kimchi_jjigae_-_San_Francisco,_CA.jpg"
+  },
+  {
+   "file": "kimchi_3.jpg",
+   "title": "File:Gimchi-jjigae 1.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "travel oriented",
+   "page": "https://commons.wikimedia.org/wiki/File:Gimchi-jjigae_1.jpg"
+  }
+ ],
+ "hangi": [
+  {
+   "file": "hangi_0.jpg",
+   "title": "File:Hāngi dinner.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "einalem",
+   "page": "https://commons.wikimedia.org/wiki/File:H%C4%81ngi_dinner.jpg"
+  },
+  {
+   "file": "hangi_1.jpg",
+   "title": "File:Rotorua Maori Experience - Hangi - ceremonial revealing of the food.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "Percita",
+   "page": "https://commons.wikimedia.org/wiki/File:Rotorua_Maori_Experience_-_Hangi_-_ceremonial_revealing_of_the_food.jpg"
+  },
+  {
+   "file": "hangi_2.jpg",
+   "title": "File:Rotorua Maori Experience - Hangi -keeping it hot now its cooked.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "Percita",
+   "page": "https://commons.wikimedia.org/wiki/File:Rotorua_Maori_Experience_-_Hangi_-keeping_it_hot_now_its_cooked.jpg"
+  },
+  {
+   "file": "hangi_3.jpg",
+   "title": "File:Hangi rocks.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "Percita",
+   "page": "https://commons.wikimedia.org/wiki/File:Hangi_rocks.jpg"
+  }
+ ],
+ "mole": [
+  {
+   "file": "mole_0.jpg",
+   "title": "File:Mole Poblano.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "Melissa Doroquez",
+   "page": "https://commons.wikimedia.org/wiki/File:Mole_Poblano.jpg"
+  },
+  {
+   "file": "mole_1.jpg",
+   "title": "File:Mole poblano de fiesta.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Pabliotecario",
+   "page": "https://commons.wikimedia.org/wiki/File:Mole_poblano_de_fiesta.jpg"
+  },
+  {
+   "file": "mole_2.jpg",
+   "title": "File:Mole in Puebla.JPG",
+   "license": "CC BY-SA 3.0",
+   "artist": "Elelicht",
+   "page": "https://commons.wikimedia.org/wiki/File:Mole_in_Puebla.JPG"
+  },
+  {
+   "file": "mole_3.jpg",
+   "title": "File:Mole poblano, México.JPG",
+   "license": "CC BY-SA 4.0",
+   "artist": "Adrián Cerón",
+   "page": "https://commons.wikimedia.org/wiki/File:Mole_poblano,_M%C3%A9xico.JPG"
+  }
+ ],
+ "ceviche": [
+  {
+   "file": "ceviche_0.jpg",
+   "title": "File:Ceviche del Perú.jpg",
+   "license": "CC BY 3.0",
+   "artist": "No machine-readable author provided. Manuel González Olaechea assumed (based on ",
+   "page": "https://commons.wikimedia.org/wiki/File:Ceviche_del_Per%C3%BA.jpg"
+  },
+  {
+   "file": "ceviche_1.jpg",
+   "title": "File:Ceviche ingredients.png",
+   "license": "CC BY-SA 4.0",
+   "artist": "GeoO",
+   "page": "https://commons.wikimedia.org/wiki/File:Ceviche_ingredients.png"
+  },
+  {
+   "file": "ceviche_2.jpg",
+   "title": "File:Ceviche yucateco, Mazatlán, 6 de diciembre de 2022 02.jpg",
+   "license": "CC0",
+   "artist": "The New Foxy",
+   "page": "https://commons.wikimedia.org/wiki/File:Ceviche_yucateco,_Mazatl%C3%A1n,_6_de_diciembre_de_2022_02.jpg"
+  },
+  {
+   "file": "ceviche_3.jpg",
+   "title": "File:Ceviche de camarón.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Wotancito",
+   "page": "https://commons.wikimedia.org/wiki/File:Ceviche_de_camar%C3%B3n.jpg"
+  }
+ ],
+ "feijoada": [
+  {
+   "file": "feijoada_0.jpg",
+   "title": "File:Feijoada à brasileira -02.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Bradleyzm",
+   "page": "https://commons.wikimedia.org/wiki/File:Feijoada_%C3%A0_brasileira_-02.jpg"
+  },
+  {
+   "file": "feijoada_1.jpg",
+   "title": "File:Feijoada à brasileira 1.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Melsj",
+   "page": "https://commons.wikimedia.org/wiki/File:Feijoada_%C3%A0_brasileira_1.jpg"
+  },
+  {
+   "file": "feijoada_2.jpg",
+   "title": "File:Feijoada (Brazilian dish), São Luís, Maranhão.jpg",
+   "license": "CC0",
+   "artist": "Ridiculopathy",
+   "page": "https://commons.wikimedia.org/wiki/File:Feijoada_(Brazilian_dish),_S%C3%A3o_Lu%C3%ADs,_Maranh%C3%A3o.jpg"
+  },
+  {
+   "file": "feijoada_3.jpg",
+   "title": "File:Feijoada família.jpg",
+   "license": "CC BY 2.0",
+   "artist": "Jofre Carneiro",
+   "page": "https://commons.wikimedia.org/wiki/File:Feijoada_fam%C3%ADlia.jpg"
+  }
+ ],
+ "empanadas": [
+  {
+   "file": "empanadas_0.jpg",
+   "title": "File:Empanada de Vigan.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Jessartcam",
+   "page": "https://commons.wikimedia.org/wiki/File:Empanada_de_Vigan.jpg"
+  },
+  {
+   "file": "empanadas_1.jpg",
+   "title": "File:Empanadas salteñas (al paso).jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Leonardovillada",
+   "page": "https://commons.wikimedia.org/wiki/File:Empanadas_salte%C3%B1as_(al_paso).jpg"
+  },
+  {
+   "file": "empanadas_2.jpg",
+   "title": "File:Empanadas salteñas 1.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Gonzalo Rivero",
+   "page": "https://commons.wikimedia.org/wiki/File:Empanadas_salte%C3%B1as_1.jpg"
+  },
+  {
+   "file": "empanadas_3.jpg",
+   "title": "File:Empanada - Stu Spivack.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "stu_spivack",
+   "page": "https://commons.wikimedia.org/wiki/File:Empanada_-_Stu_Spivack.jpg"
+  }
+ ],
+ "gumbo": [
+  {
+   "file": "gumbo_0.jpg",
+   "title": "File:Okra (Abelmoschus esculentus) Feb 2019. DSC 0060 01.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "ADARSHluck",
+   "page": "https://commons.wikimedia.org/wiki/File:Okra_(Abelmoschus_esculentus)_Feb_2019._DSC_0060_01.jpg"
+  },
+  {
+   "file": "gumbo_1.jpg",
+   "title": "File:20260317 Abelmoschus esculentus.jpg",
+   "license": "CC BY 4.0",
+   "artist": "Flocci Nivis",
+   "page": "https://commons.wikimedia.org/wiki/File:20260317_Abelmoschus_esculentus.jpg"
+  },
+  {
+   "file": "gumbo_2.jpg",
+   "title": "File:Gumbo- Stu Spivak.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "stu_spivack",
+   "page": "https://commons.wikimedia.org/wiki/File:Gumbo-_Stu_Spivak.jpg"
+  },
+  {
+   "file": "gumbo_3.jpg",
+   "title": "File:Gumbo - 13723042084.jpg",
+   "license": "CC BY 2.0",
+   "artist": "I am R.",
+   "page": "https://commons.wikimedia.org/wiki/File:Gumbo_-_13723042084.jpg"
+  }
+ ],
+ "bannock": [
+  {
+   "file": "bannock_0.jpg",
+   "title": "File:Bere bannock.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Lajmmoore",
+   "page": "https://commons.wikimedia.org/wiki/File:Bere_bannock.jpg"
+  },
+  {
+   "file": "bannock_1.jpg",
+   "title": "File:Bannock 3.JPG",
+   "license": "CC0",
+   "artist": "Skorp",
+   "page": "https://commons.wikimedia.org/wiki/File:Bannock_3.JPG"
+  },
+  {
+   "file": "bannock_2.jpg",
+   "title": "File:Inuit bannock.JPG",
+   "license": "CC BY-SA 3.0",
+   "artist": "CambridgeBayWeather",
+   "page": "https://commons.wikimedia.org/wiki/File:Inuit_bannock.JPG"
+  },
+  {
+   "file": "bannock_3.jpg",
+   "title": "File:Bannock 2.JPG",
+   "license": "CC BY-SA 3.0",
+   "artist": "Carl Steinbeißer",
+   "page": "https://commons.wikimedia.org/wiki/File:Bannock_2.JPG"
+  }
+ ],
+ "pierogi": [
+  {
+   "file": "pierogi_0.jpg",
+   "title": "File:Pierogi, Gniezno, Polonia3.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "Diego Delso",
+   "page": "https://commons.wikimedia.org/wiki/File:Pierogi,_Gniezno,_Polonia3.jpg"
+  },
+  {
+   "file": "pierogi_1.jpg",
+   "title": "File:Pierogi 01.jpg",
+   "license": "CC BY 4.0",
+   "artist": "File:Pierogi 07-01.JPG: Piotrus\nFile:Pierogarnia Stary Młyn9.jpg: Kinga1989\nderi",
+   "page": "https://commons.wikimedia.org/wiki/File:Pierogi_01.jpg"
+  },
+  {
+   "file": "pierogi_2.jpg",
+   "title": "File:Polish pierogi in a dish.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Piotrus",
+   "page": "https://commons.wikimedia.org/wiki/File:Polish_pierogi_in_a_dish.jpg"
+  },
+  {
+   "file": "pierogi_3.jpg",
+   "title": "File:Pierogi 02b.jpg",
+   "license": "CC BY 4.0",
+   "artist": "File:Cheese, potato, and onion pierogi.jpg: Mike Peel\nFile:Pierogarnia Stary Mły",
+   "page": "https://commons.wikimedia.org/wiki/File:Pierogi_02b.jpg"
+  }
+ ],
+ "paella": [
+  {
+   "file": "paella_0.jpg",
+   "title": "File:Paella de fruit de mer.jpg",
+   "license": "CC0",
+   "artist": "Wilfredor",
+   "page": "https://commons.wikimedia.org/wiki/File:Paella_de_fruit_de_mer.jpg"
+  },
+  {
+   "file": "paella_1.jpg",
+   "title": "File:Paella valenciana, Mazatlán, 25 de abril de 2023.jpg",
+   "license": "CC0",
+   "artist": "El Nuevo Doge",
+   "page": "https://commons.wikimedia.org/wiki/File:Paella_valenciana,_Mazatl%C3%A1n,_25_de_abril_de_2023.jpg"
+  },
+  {
+   "file": "paella_2.jpg",
+   "title": "File:01 Paella Valenciana original.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Jan Harenburg",
+   "page": "https://commons.wikimedia.org/wiki/File:01_Paella_Valenciana_original.jpg"
+  },
+  {
+   "file": "paella_3.jpg",
+   "title": "File:Paella valenciana con pato.jpg",
+   "license": "CC BY 4.0",
+   "artist": "Juan Emilio Prades Bel",
+   "page": "https://commons.wikimedia.org/wiki/File:Paella_valenciana_con_pato.jpg"
+  }
+ ],
+ "moussaka": [
+  {
+   "file": "moussaka_0.jpg",
+   "title": "File:Мусака од компири.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Original:  Cuklev",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%9C%D1%83%D1%81%D0%B0%D0%BA%D0%B0_%D0%BE%D0%B4_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B8%D1%80%D0%B8.jpg"
+  },
+  {
+   "file": "moussaka_1.jpg",
+   "title": "File:Mousakas.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "Fotograf: Dieter Mueller (dino1948) Kamera: de:Nikon 885",
+   "page": "https://commons.wikimedia.org/wiki/File:Mousakas.jpg"
+  },
+  {
+   "file": "moussaka_2.jpg",
+   "title": "File:Moussaka ingredients.png",
+   "license": "CC BY-SA 4.0",
+   "artist": "GeoO",
+   "page": "https://commons.wikimedia.org/wiki/File:Moussaka_ingredients.png"
+  },
+  {
+   "file": "moussaka_3.jpg",
+   "title": "File:Moussaka in Jerusalem, Israel.png",
+   "license": "CC0",
+   "artist": "PeleYoetz",
+   "page": "https://commons.wikimedia.org/wiki/File:Moussaka_in_Jerusalem,_Israel.png"
+  }
+ ],
+ "norma": [
+  {
+   "file": "norma_0.jpg",
+   "title": "File:Pasta alla Norma (2563876877).jpg",
+   "license": "CC BY 2.0",
+   "artist": "Paoletta S.",
+   "page": "https://commons.wikimedia.org/wiki/File:Pasta_alla_Norma_(2563876877).jpg"
+  },
+  {
+   "file": "norma_1.jpg",
+   "title": "File:Pasta alla Norma ingredients.png",
+   "license": "CC BY-SA 4.0",
+   "artist": "GeoO",
+   "page": "https://commons.wikimedia.org/wiki/File:Pasta_alla_Norma_ingredients.png"
+  },
+  {
+   "file": "norma_2.jpg",
+   "title": "File:Pasta alla Norma - Wiki Loves Sicilia.jpg",
+   "license": "CC0",
+   "artist": "8w9d",
+   "page": "https://commons.wikimedia.org/wiki/File:Pasta_alla_Norma_-_Wiki_Loves_Sicilia.jpg"
+  },
+  {
+   "file": "norma_3.jpg",
+   "title": "File:Pasta Norma Villa Principe di Belmonte Ispica 2017.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Muesse",
+   "page": "https://commons.wikimedia.org/wiki/File:Pasta_Norma_Villa_Principe_di_Belmonte_Ispica_2017.jpg"
+  }
+ ],
+ "bourguignon": [
+  {
+   "file": "bourguignon_0.jpg",
+   "title": "File:Boeuf Bourguignon Paris Beaubourg.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Asamboi",
+   "page": "https://commons.wikimedia.org/wiki/File:Boeuf_Bourguignon_Paris_Beaubourg.jpg"
+  },
+  {
+   "file": "bourguignon_1.jpg",
+   "title": "File:Bœuf bourguignon 06.JPG",
+   "license": "CC BY-SA 4.0",
+   "artist": "Arnaud 25",
+   "page": "https://commons.wikimedia.org/wiki/File:B%C5%93uf_bourguignon_06.JPG"
+  },
+  {
+   "file": "bourguignon_2.jpg",
+   "title": "File:Bœuf bourguignon.JPG",
+   "license": "CC BY-SA 3.0",
+   "artist": "Arnaud 25",
+   "page": "https://commons.wikimedia.org/wiki/File:B%C5%93uf_bourguignon.JPG"
+  },
+  {
+   "file": "bourguignon_3.jpg",
+   "title": "File:Beef bourguignon-01.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "balise42",
+   "page": "https://commons.wikimedia.org/wiki/File:Beef_bourguignon-01.jpg"
+  }
+ ],
+ "knafeh": [
+  {
+   "file": "knafeh_0.jpg",
+   "title": "File:Knafeh From Yaffa Knafeh.jpg",
+   "license": "CC0",
+   "artist": "Theipu",
+   "page": "https://commons.wikimedia.org/wiki/File:Knafeh_From_Yaffa_Knafeh.jpg"
+  },
+  {
+   "file": "knafeh_1.jpg",
+   "title": "File:Knafeh in Jaffa cafe.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Artem.G",
+   "page": "https://commons.wikimedia.org/wiki/File:Knafeh_in_Jaffa_cafe.jpg"
+  },
+  {
+   "file": "knafeh_2.jpg",
+   "title": "File:Knafeh khishneh.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "白と赤茶",
+   "page": "https://commons.wikimedia.org/wiki/File:Knafeh_khishneh.jpg"
+  },
+  {
+   "file": "knafeh_3.jpg",
+   "title": "File:Liat Portal for Foodie Disorder - Homemade knafeh with pistachios.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "HaJunkiyada",
+   "page": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Homemade_knafeh_with_pistachios.jpg"
+  }
+ ],
+ "colombo": [
+  {
+   "file": "colombo_0.jpg",
+   "title": "File:Colombo 002.JPG",
+   "license": "CC BY-SA 3.0",
+   "artist": "Arnaud 25",
+   "page": "https://commons.wikimedia.org/wiki/File:Colombo_002.JPG"
+  },
+  {
+   "file": "colombo_1.jpg",
+   "title": "File:Colombo 001.JPG",
+   "license": "CC BY-SA 3.0",
+   "artist": "Arnaud 25",
+   "page": "https://commons.wikimedia.org/wiki/File:Colombo_001.JPG"
+  },
+  {
+   "file": "colombo_2.jpg",
+   "title": "File:Colombo 004.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Arnaud 25",
+   "page": "https://commons.wikimedia.org/wiki/File:Colombo_004.jpg"
+  }
+ ],
+ "damper": [
+  {
+   "file": "damper_0.jpg",
+   "title": "File:Damper (food).jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "Nachoman-au",
+   "page": "https://commons.wikimedia.org/wiki/File:Damper_(food).jpg"
+  },
+  {
+   "file": "damper_1.jpg",
+   "title": "File:Wattleseed Damper (cropped).jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Finbar.concaig",
+   "page": "https://commons.wikimedia.org/wiki/File:Wattleseed_Damper_(cropped).jpg"
+  },
+  {
+   "file": "damper_2.jpg",
+   "title": "File:Rosemary beer damper (cropped).jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "foam",
+   "page": "https://commons.wikimedia.org/wiki/File:Rosemary_beer_damper_(cropped).jpg"
+  },
+  {
+   "file": "damper_3.jpg",
+   "title": "File:Wattleseed Damper.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Finbar.concaig",
+   "page": "https://commons.wikimedia.org/wiki/File:Wattleseed_Damper.jpg"
+  }
+ ]
+}
