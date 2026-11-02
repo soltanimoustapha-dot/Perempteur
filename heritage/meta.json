@@ -1,174 +1,1663 @@
 {
- "chwa": [
+ "tatin": [
   {
-   "file": "chwa_0.jpg",
-   "title": "File:Traditional Greek Easter lamb and Kokoretsi.jpg",
-   "license": "CC BY-SA 3.0",
-   "artist": "ΙΣΧΣΝΙΚΑ-888",
-   "page": "https://commons.wikimedia.org/wiki/File:Traditional_Greek_Easter_lamb_and_Kokoretsi.jpg"
-  },
-  {
-   "file": "chwa_1.jpg",
-   "title": "File:Lamb Shish Kebab - Istanbul Grill, Metairie, Louisiana 23 March 2026.jpg",
-   "license": "CC BY 4.0",
-   "artist": "Paul Lowry",
-   "page": "https://commons.wikimedia.org/wiki/File:Lamb_Shish_Kebab_-_Istanbul_Grill,_Metairie,_Louisiana_23_March_2026.jpg"
-  },
-  {
-   "file": "chwa_2.jpg",
-   "title": "File:Ju Xiang Yuan Restaurant, Ottawa - Grilled Lamb (6453828095).jpg",
+   "file": "tatin_0.jpg",
+   "title": "File:Closeup of tarte tatin (13513714244).jpg",
    "license": "CC BY-SA 2.0",
-   "artist": "John Thompson from Iqaluit",
-   "page": "https://commons.wikimedia.org/wiki/File:Ju_Xiang_Yuan_Restaurant,_Ottawa_-_Grilled_Lamb_(6453828095).jpg"
+   "artist": "Franck Chicot from Nantes, France",
+   "page": "https://commons.wikimedia.org/wiki/File:Closeup_of_tarte_tatin_(13513714244).jpg"
   },
   {
-   "file": "chwa_3.jpg",
-   "title": "File:Lamb kebabs on grill at Ancient City of Kashi (20230923224509).jpg",
+   "file": "tatin_1.jpg",
+   "title": "File:Tarte tatin a un restaurant del Tossalet, Xàbia.jpg",
    "license": "CC BY-SA 4.0",
-   "artist": "N509FZ",
-   "page": "https://commons.wikimedia.org/wiki/File:Lamb_kebabs_on_grill_at_Ancient_City_of_Kashi_(20230923224509).jpg"
+   "artist": "Joanbanjo",
+   "page": "https://commons.wikimedia.org/wiki/File:Tarte_tatin_a_un_restaurant_del_Tossalet,_X%C3%A0bia.jpg"
+  },
+  {
+   "file": "tatin_2.jpg",
+   "title": "File:Tarte Tatin a la Michalak.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Shani Evenstein (שני אבנשטיין)",
+   "page": "https://commons.wikimedia.org/wiki/File:Tarte_Tatin_a_la_Michalak.jpg"
+  },
+  {
+   "file": "tatin_3.jpg",
+   "title": "File:Tarte tatin appletart.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Loslazos",
+   "page": "https://commons.wikimedia.org/wiki/File:Tarte_tatin_appletart.jpg"
   }
  ],
- "omelette": [
+ "croissant": [
   {
-   "file": "omelette_0.jpg",
-   "title": "File:Sandwich frites-omelette.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "3esban",
-   "page": "https://commons.wikimedia.org/wiki/File:Sandwich_frites-omelette.jpg"
-  }
- ],
- "bayda": [],
- "hmiss": [
-  {
-   "file": "hmiss_0.jpg",
-   "title": "File:Salade Mechouia au thon.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Emna Mizouni",
-   "page": "https://commons.wikimedia.org/wiki/File:Salade_Mechouia_au_thon.jpg"
+   "file": "croissant_0.jpg",
+   "title": "File:Almond croissant - Milfey Patisserie 2026-07-11.jpg",
+   "license": "CC0",
+   "artist": "Andy Li",
+   "page": "https://commons.wikimedia.org/wiki/File:Almond_croissant_-_Milfey_Patisserie_2026-07-11.jpg"
   },
   {
-   "file": "hmiss_1.jpg",
-   "title": "File:SaladeMechouia 2013.JPG",
-   "license": "CC BY 3.0",
-   "artist": "Citizen59",
-   "page": "https://commons.wikimedia.org/wiki/File:SaladeMechouia_2013.JPG"
+   "file": "croissant_1.jpg",
+   "title": "File:Bueno cookie croissant - Milfey Patisserie 2026-05-02.jpg",
+   "license": "CC0",
+   "artist": "Andy Li",
+   "page": "https://commons.wikimedia.org/wiki/File:Bueno_cookie_croissant_-_Milfey_Patisserie_2026-05-02.jpg"
   },
   {
-   "file": "hmiss_2.jpg",
-   "title": "File:سلاطة مشوية، مع الزيتون الاخضر، تونس 2020.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Habib M'henni",
-   "page": "https://commons.wikimedia.org/wiki/File:%D8%B3%D9%84%D8%A7%D8%B7%D8%A9_%D9%85%D8%B4%D9%88%D9%8A%D8%A9%D8%8C_%D9%85%D8%B9_%D8%A7%D9%84%D8%B2%D9%8A%D8%AA%D9%88%D9%86_%D8%A7%D9%84%D8%A7%D8%AE%D8%B6%D8%B1%D8%8C_%D8%AA%D9%88%D9%86%D8%B3_2020.jpg"
-  },
-  {
-   "file": "hmiss_3.jpg",
-   "title": "File:Grilled Salad.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Meriemou",
-   "page": "https://commons.wikimedia.org/wiki/File:Grilled_Salad.jpg"
-  }
- ],
- "sfiriya": [],
- "msila": [
-  {
-   "file": "msila_0.jpg",
-   "title": "File:Lyon 7e - Restaurant Air du Pays - Chakhchoukha Biskra Poulet.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Sebleouf",
-   "page": "https://commons.wikimedia.org/wiki/File:Lyon_7e_-_Restaurant_Air_du_Pays_-_Chakhchoukha_Biskra_Poulet.jpg"
-  },
-  {
-   "file": "msila_1.jpg",
-   "title": "File:Chakhchoukha9.JPG",
-   "license": "CC BY-SA 3.0",
-   "artist": "Xufanc",
-   "page": "https://commons.wikimedia.org/wiki/File:Chakhchoukha9.JPG"
-  },
-  {
-   "file": "msila_2.jpg",
-   "title": "File:Shakshuka by Calliopejen1.jpg",
-   "license": "CC BY-SA 3.0",
-   "artist": "Calliopejen1",
-   "page": "https://commons.wikimedia.org/wiki/File:Shakshuka_by_Calliopejen1.jpg"
-  },
-  {
-   "file": "msila_3.jpg",
-   "title": "File:Shakshuka1.jpg",
+   "file": "croissant_2.jpg",
+   "title": "File:Croissant D'Or Patisserie, French Quarter, New Orleans.jpg",
    "license": "CC BY 2.0",
-   "artist": "Joe Mahoney",
-   "page": "https://commons.wikimedia.org/wiki/File:Shakshuka1.jpg"
+   "artist": "Steam Pipe Trunk Distribution Venue",
+   "page": "https://commons.wikimedia.org/wiki/File:Croissant_D%27Or_Patisserie,_French_Quarter,_New_Orleans.jpg"
+  },
+  {
+   "file": "croissant_3.jpg",
+   "title": "File:Best turkey sandwich on earth at Croissant D'Or Patisserie, New Orleans.jpg",
+   "license": "CC BY 2.0",
+   "artist": "Steam Pipe Trunk Distribution Venue",
+   "page": "https://commons.wikimedia.org/wiki/File:Best_turkey_sandwich_on_earth_at_Croissant_D%27Or_Patisserie,_New_Orleans.jpg"
   }
  ],
- "mhajeb": [],
- "coca": [
+ "ratatouille": [
   {
-   "file": "coca_0.jpg",
-   "title": "File:Oran Park demolished Coca Cola stand.jpg",
+   "file": "ratatouille_0.jpg",
+   "title": "File:Ratatouille.jpg",
+   "license": "CC BY 2.0",
+   "artist": "Marcus Guimarães",
+   "page": "https://commons.wikimedia.org/wiki/File:Ratatouille.jpg"
+  },
+  {
+   "file": "ratatouille_1.jpg",
+   "title": "File:Ratatouille 001.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Arnaud 25",
+   "page": "https://commons.wikimedia.org/wiki/File:Ratatouille_001.jpg"
+  },
+  {
+   "file": "ratatouille_2.jpg",
+   "title": "File:Ratatouille Hotel Nikko breakfast buffet Kaohsiung May 2026.jpg",
+   "license": "CC BY 4.0",
+   "artist": "Heidi Meudt",
+   "page": "https://commons.wikimedia.org/wiki/File:Ratatouille_Hotel_Nikko_breakfast_buffet_Kaohsiung_May_2026.jpg"
+  },
+  {
+   "file": "ratatouille_3.jpg",
+   "title": "File:Payam ratatoie.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Payam elyas kordi",
+   "page": "https://commons.wikimedia.org/wiki/File:Payam_ratatoie.jpg"
+  }
+ ],
+ "cassoulet": [
+  {
+   "file": "cassoulet_0.jpg",
+   "title": "File:Bowl of cassoulet.JPG",
    "license": "CC BY-SA 3.0",
-   "artist": "Mad94d",
-   "page": "https://commons.wikimedia.org/wiki/File:Oran_Park_demolished_Coca_Cola_stand.jpg"
+   "artist": "BrokenSphere",
+   "page": "https://commons.wikimedia.org/wiki/File:Bowl_of_cassoulet.JPG"
+  },
+  {
+   "file": "cassoulet_1.jpg",
+   "title": "File:Texture cassoulet béninois.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Adoscam",
+   "page": "https://commons.wikimedia.org/wiki/File:Texture_cassoulet_b%C3%A9ninois.jpg"
+  },
+  {
+   "file": "cassoulet_2.jpg",
+   "title": "File:Cassoulet Carcassonne FRA 001.JPG",
+   "license": "CC BY-SA 3.0",
+   "artist": "ignis",
+   "page": "https://commons.wikimedia.org/wiki/File:Cassoulet_Carcassonne_FRA_001.JPG"
+  },
+  {
+   "file": "cassoulet_3.jpg",
+   "title": "File:Texture de cassoulet blanc béninois parsemé des graine couleur noire.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Adoscam",
+   "page": "https://commons.wikimedia.org/wiki/File:Texture_de_cassoulet_blanc_b%C3%A9ninois_parsem%C3%A9_des_graine_couleur_noire.jpg"
   }
  ],
- "tikourbabine2": [],
- "bayda2": [
+ "bouillabaisse": [
   {
-   "file": "bayda2_0.jpg",
-   "title": "File:Tavuklu şehriye.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "E4024",
-   "page": "https://commons.wikimedia.org/wiki/File:Tavuklu_%C5%9Fehriye.jpg"
+   "file": "bouillabaisse_0.jpg",
+   "title": "File:Scorpaena porcus 2009 G1.jpg",
+   "license": "Public domain",
+   "artist": "George Chernilevsky",
+   "page": "https://commons.wikimedia.org/wiki/File:Scorpaena_porcus_2009_G1.jpg"
   },
   {
-   "file": "bayda2_1.jpg",
-   "title": "File:Laksa Betawi 2.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Gunawan Kartapranata",
-   "page": "https://commons.wikimedia.org/wiki/File:Laksa_Betawi_2.jpg"
+   "file": "bouillabaisse_1.jpg",
+   "title": "File:Scorpaena porcus 2009 G2.jpg",
+   "license": "Public domain",
+   "artist": "George Chernilevsky",
+   "page": "https://commons.wikimedia.org/wiki/File:Scorpaena_porcus_2009_G2.jpg"
   },
   {
-   "file": "bayda2_2.jpg",
-   "title": "File:Laksa Betawi 1.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Gunawan Kartapranata",
-   "page": "https://commons.wikimedia.org/wiki/File:Laksa_Betawi_1.jpg"
+   "file": "bouillabaisse_2.jpg",
+   "title": "File:20250903 Bouillabaisse in Khimki.jpg",
+   "license": "CC BY 4.0",
+   "artist": "Sergey A. Demidov",
+   "page": "https://commons.wikimedia.org/wiki/File:20250903_Bouillabaisse_in_Khimki.jpg"
   },
   {
-   "file": "bayda2_3.jpg",
-   "title": "File:Laksa Betawi 3.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Gunawan Kartapranata",
-   "page": "https://commons.wikimedia.org/wiki/File:Laksa_Betawi_3.jpg"
+   "file": "bouillabaisse_3.jpg",
+   "title": "File:20250903 Bouillabaisse in Khimki (90108).jpg",
+   "license": "CC BY 4.0",
+   "artist": "Sergey A. Demidov",
+   "page": "https://commons.wikimedia.org/wiki/File:20250903_Bouillabaisse_in_Khimki_(90108).jpg"
   }
  ],
- "omelette2": [
+ "crepes": [
   {
-   "file": "omelette2_0.jpg",
+   "file": "crepes_0.jpg",
+   "title": "File:Roscoff 2008 PD 30.JPG",
+   "license": "CC BY-SA 3.0",
+   "artist": "Kamel15",
+   "page": "https://commons.wikimedia.org/wiki/File:Roscoff_2008_PD_30.JPG"
+  },
+  {
+   "file": "crepes_1.jpg",
+   "title": "File:Crèpe bretonne au caramel au beurre salé.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Arnaud 25",
+   "page": "https://commons.wikimedia.org/wiki/File:Cr%C3%A8pe_bretonne_au_caramel_au_beurre_sal%C3%A9.jpg"
+  },
+  {
+   "file": "crepes_2.jpg",
+   "title": "File:Crêpes de blé noir de Basse Bretagne.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "Trizek",
+   "page": "https://commons.wikimedia.org/wiki/File:Cr%C3%AApes_de_bl%C3%A9_noir_de_Basse_Bretagne.jpg"
+  },
+  {
+   "file": "crepes_3.jpg",
+   "title": "File:Galette à la farine de blé noir de Bretagne.jpg",
+   "license": "Public domain",
+   "artist": "Unknown early 1900s",
+   "page": "https://commons.wikimedia.org/wiki/File:Galette_%C3%A0_la_farine_de_bl%C3%A9_noir_de_Bretagne.jpg"
+  }
+ ],
+ "margherita": [
+  {
+   "file": "margherita_0.jpg",
+   "title": "File:Margherita Originale.JPG",
+   "license": "CC BY-SA 3.0",
+   "artist": "Mario56",
+   "page": "https://commons.wikimedia.org/wiki/File:Margherita_Originale.JPG"
+  },
+  {
+   "file": "margherita_1.jpg",
+   "title": "File:Pizza-napoletana.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Fabryx98",
+   "page": "https://commons.wikimedia.org/wiki/File:Pizza-napoletana.jpg"
+  },
+  {
+   "file": "margherita_2.jpg",
+   "title": "File:Margherita pizza on plate.jpg",
+   "license": "CC BY 4.0",
+   "artist": "Shisma",
+   "page": "https://commons.wikimedia.org/wiki/File:Margherita_pizza_on_plate.jpg"
+  },
+  {
+   "file": "margherita_3.jpg",
+   "title": "File:Margherita pizza on plate 2.jpg",
+   "license": "CC BY 4.0",
+   "artist": "Shisma",
+   "page": "https://commons.wikimedia.org/wiki/File:Margherita_pizza_on_plate_2.jpg"
+  }
+ ],
+ "carbonara": [
+  {
+   "file": "carbonara_0.jpg",
+   "title": "File:Espaguetis carbonara.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Javier Somoza",
+   "page": "https://commons.wikimedia.org/wiki/File:Espaguetis_carbonara.jpg"
+  },
+  {
+   "file": "carbonara_1.jpg",
+   "title": "File:Spaghetti Carbonara with Japanese Raw Egg.jpg",
+   "license": "CC0",
+   "artist": "Andy Li",
+   "page": "https://commons.wikimedia.org/wiki/File:Spaghetti_Carbonara_with_Japanese_Raw_Egg.jpg"
+  },
+  {
+   "file": "carbonara_2.jpg",
+   "title": "File:Spaghetti alla Carbonara (Madrid).JPG",
+   "license": "CC BY-SA 3.0",
+   "artist": "Tamorlan",
+   "page": "https://commons.wikimedia.org/wiki/File:Spaghetti_alla_Carbonara_(Madrid).JPG"
+  },
+  {
+   "file": "carbonara_3.jpg",
+   "title": "File:Spaghetti alla Carbonara.jpg",
+   "license": "Public domain",
+   "artist": "Mattes Boch (Mboch on English Wikipedia)",
+   "page": "https://commons.wikimedia.org/wiki/File:Spaghetti_alla_Carbonara.jpg"
+  }
+ ],
+ "lasagne": [
+  {
+   "file": "lasagne_0.jpg",
+   "title": "File:Lasagna bolognese.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Sambawamba",
+   "page": "https://commons.wikimedia.org/wiki/File:Lasagna_bolognese.jpg"
+  },
+  {
+   "file": "lasagne_1.jpg",
+   "title": "File:Lasagna bolognese1.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Schellenberg",
+   "page": "https://commons.wikimedia.org/wiki/File:Lasagna_bolognese1.jpg"
+  }
+ ],
+ "tiramisu": [],
+ "pesto": [
+  {
+   "file": "pesto_0.jpg",
+   "title": "File:Trofie al pesto.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Eluinie",
+   "page": "https://commons.wikimedia.org/wiki/File:Trofie_al_pesto.jpg"
+  },
+  {
+   "file": "pesto_1.jpg",
+   "title": "File:Trofie al pesto .jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Pastalovers",
+   "page": "https://commons.wikimedia.org/wiki/File:Trofie_al_pesto_.jpg"
+  },
+  {
+   "file": "pesto_2.jpg",
+   "title": "File:Trofie al pesto 07.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Superchilum",
+   "page": "https://commons.wikimedia.org/wiki/File:Trofie_al_pesto_07.jpg"
+  },
+  {
+   "file": "pesto_3.jpg",
+   "title": "File:Trofie al pesto 05.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Superchilum",
+   "page": "https://commons.wikimedia.org/wiki/File:Trofie_al_pesto_05.jpg"
+  }
+ ],
+ "ossobuco": [
+  {
+   "file": "ossobuco_0.jpg",
+   "title": "File:Ossobuco.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "Mogens Engelund",
+   "page": "https://commons.wikimedia.org/wiki/File:Ossobuco.jpg"
+  },
+  {
+   "file": "ossobuco_1.jpg",
+   "title": "File:Ossobuco con risotto alla milanese.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "pier",
+   "page": "https://commons.wikimedia.org/wiki/File:Ossobuco_con_risotto_alla_milanese.jpg"
+  },
+  {
+   "file": "ossobuco_2.jpg",
+   "title": "File:Ossobuco Ávila.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Xemenendura",
+   "page": "https://commons.wikimedia.org/wiki/File:Ossobuco_%C3%81vila.jpg"
+  },
+  {
+   "file": "ossobuco_3.jpg",
+   "title": "File:Risotto alla milanese con ossobuco di vitello piemontese (4520612452).jpg",
+   "license": "CC BY 2.0",
+   "artist": "Micaela &amp; Massimo from Vaprio d'Adda (MI), Italy",
+   "page": "https://commons.wikimedia.org/wiki/File:Risotto_alla_milanese_con_ossobuco_di_vitello_piemontese_(4520612452).jpg"
+  }
+ ],
+ "arancini": [
+  {
+   "file": "arancini_0.jpg",
+   "title": "File:Arancini 002.jpg",
+   "license": "Public domain",
+   "artist": "No machine-readable author provided. Gmelfi assumed (based on copyright claims).",
+   "page": "https://commons.wikimedia.org/wiki/File:Arancini_002.jpg"
+  },
+  {
+   "file": "arancini_1.jpg",
+   "title": "File:Truffle & Mushroom Arancini - Leon.jpg",
+   "license": "CC0",
+   "artist": "Andy Li",
+   "page": "https://commons.wikimedia.org/wiki/File:Truffle_%26_Mushroom_Arancini_-_Leon.jpg"
+  },
+  {
+   "file": "arancini_2.jpg",
+   "title": "File:5 small Arancini Spinach - Monjibello, Brighton 2023-11-20.jpg",
+   "license": "CC0",
+   "artist": "Andy Li",
+   "page": "https://commons.wikimedia.org/wiki/File:5_small_Arancini_Spinach_-_Monjibello,_Brighton_2023-11-20.jpg"
+  },
+  {
+   "file": "arancini_3.jpg",
+   "title": "File:Arancini displayed at counter of Monjibello, Brighton 2023-11-20.jpg",
+   "license": "CC0",
+   "artist": "Andy Li",
+   "page": "https://commons.wikimedia.org/wiki/File:Arancini_displayed_at_counter_of_Monjibello,_Brighton_2023-11-20.jpg"
+  }
+ ],
+ "cacio": [
+  {
+   "file": "cacio_0.jpg",
+   "title": "File:Spaghetti, cacio e pepe & bitter leaf salad - Tutto 2024-04-04.jpg",
+   "license": "CC0",
+   "artist": "Andy Li",
+   "page": "https://commons.wikimedia.org/wiki/File:Spaghetti,_cacio_e_pepe_%26_bitter_leaf_salad_-_Tutto_2024-04-04.jpg"
+  },
+  {
+   "file": "cacio_1.jpg",
+   "title": "File:Cacio e pepe.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "Popo le Chien",
+   "page": "https://commons.wikimedia.org/wiki/File:Cacio_e_pepe.jpg"
+  },
+  {
+   "file": "cacio_2.jpg",
+   "title": "File:Cacio e pepe at trattoria in Rome.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Schellack",
+   "page": "https://commons.wikimedia.org/wiki/File:Cacio_e_pepe_at_trattoria_in_Rome.jpg"
+  },
+  {
+   "file": "cacio_3.jpg",
+   "title": "File:Spaghetto cacio e pepe Roma 2018.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Blackcat",
+   "page": "https://commons.wikimedia.org/wiki/File:Spaghetto_cacio_e_pepe_Roma_2018.jpg"
+  }
+ ],
+ "tortilla": [
+  {
+   "file": "tortilla_0.jpg",
    "title": "File:Bocadillo de Tortilla de patatas - 34.jpg",
    "license": "CC BY 3.0",
    "artist": "Tamorlan",
    "page": "https://commons.wikimedia.org/wiki/File:Bocadillo_de_Tortilla_de_patatas_-_34.jpg"
   },
   {
-   "file": "omelette2_1.jpg",
+   "file": "tortilla_1.jpg",
    "title": "File:Tortilla de Patatas (Corte transversal).jpg",
    "license": "CC BY-SA 3.0",
    "artist": "Tamorlan",
    "page": "https://commons.wikimedia.org/wiki/File:Tortilla_de_Patatas_(Corte_transversal).jpg"
   },
   {
-   "file": "omelette2_2.jpg",
+   "file": "tortilla_2.jpg",
    "title": "File:Tortilla de patatas con cebolla.jpg",
    "license": "CC BY-SA 4.0",
    "artist": "Mentxuwiki",
    "page": "https://commons.wikimedia.org/wiki/File:Tortilla_de_patatas_con_cebolla.jpg"
   },
   {
-   "file": "omelette2_3.jpg",
+   "file": "tortilla_3.jpg",
    "title": "File:Tortilla de patata - San Sebastián.jpg",
    "license": "CC BY-SA 2.0",
    "artist": "Kent Wang",
    "page": "https://commons.wikimedia.org/wiki/File:Tortilla_de_patata_-_San_Sebasti%C3%A1n.jpg"
+  }
+ ],
+ "gazpacho": [
+  {
+   "file": "gazpacho_0.jpg",
+   "title": "File:Gazpacho Cazuela Barro.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "Bocadorada",
+   "page": "https://commons.wikimedia.org/wiki/File:Gazpacho_Cazuela_Barro.jpg"
+  },
+  {
+   "file": "gazpacho_1.jpg",
+   "title": "File:Gazpacho ingredients.png",
+   "license": "CC BY-SA 4.0",
+   "artist": "GeoO",
+   "page": "https://commons.wikimedia.org/wiki/File:Gazpacho_ingredients.png"
+  },
+  {
+   "file": "gazpacho_2.jpg",
+   "title": "File:Gazpacho de tomate y pepino, Mazatlán, 14 de noviembre de 2022 10.jpg",
+   "license": "CC0",
+   "artist": "El Nuevo Doge",
+   "page": "https://commons.wikimedia.org/wiki/File:Gazpacho_de_tomate_y_pepino,_Mazatl%C3%A1n,_14_de_noviembre_de_2022_10.jpg"
+  },
+  {
+   "file": "gazpacho_3.jpg",
+   "title": "File:Gazpacho andaluz.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Juan Emilio Prades Bel",
+   "page": "https://commons.wikimedia.org/wiki/File:Gazpacho_andaluz.jpg"
+  }
+ ],
+ "pulpo": [
+  {
+   "file": "pulpo_0.jpg",
+   "title": "File:El Pulpo a la gallega, típica tapa española.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Juan Emilio Prades Bel",
+   "page": "https://commons.wikimedia.org/wiki/File:El_Pulpo_a_la_gallega,_t%C3%ADpica_tapa_espa%C3%B1ola.jpg"
+  },
+  {
+   "file": "pulpo_1.jpg",
+   "title": "File:Pulpo a la Gallega, Madrid.jpg",
+   "license": "CC0",
+   "artist": "Gerda Arendt",
+   "page": "https://commons.wikimedia.org/wiki/File:Pulpo_a_la_Gallega,_Madrid.jpg"
+  },
+  {
+   "file": "pulpo_2.jpg",
+   "title": "File:Polbo á feira. Galiza.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Luis Miguel Bugallo Sánchez (Lmbuga)",
+   "page": "https://commons.wikimedia.org/wiki/File:Polbo_%C3%A1_feira._Galiza.jpg"
+  },
+  {
+   "file": "pulpo_3.jpg",
+   "title": "File:Plato de pulpo a la gallega.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Juan Emilio Prades Bel",
+   "page": "https://commons.wikimedia.org/wiki/File:Plato_de_pulpo_a_la_gallega.jpg"
+  }
+ ],
+ "fabada": [
+  {
+   "file": "fabada_0.jpg",
+   "title": "File:Fabada Asturiana.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Cariyandres",
+   "page": "https://commons.wikimedia.org/wiki/File:Fabada_Asturiana.jpg"
+  },
+  {
+   "file": "fabada_1.jpg",
+   "title": "File:Fabada con compangu.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Amasuela, Luis Lafuente Agudín",
+   "page": "https://commons.wikimedia.org/wiki/File:Fabada_con_compangu.jpg"
+  },
+  {
+   "file": "fabada_2.jpg",
+   "title": "File:Fabada Asturiana (50494830821).jpg",
+   "license": "CC BY 2.0",
+   "artist": "Amanda  Coutinho from São Paulo, Brasil",
+   "page": "https://commons.wikimedia.org/wiki/File:Fabada_Asturiana_(50494830821).jpg"
+  },
+  {
+   "file": "fabada_3.jpg",
+   "title": "File:Fabada asturiana del Valle 01.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Sahaquiel9102",
+   "page": "https://commons.wikimedia.org/wiki/File:Fabada_asturiana_del_Valle_01.jpg"
+  }
+ ],
+ "churros": [
+  {
+   "file": "churros_0.jpg",
+   "title": "File:Chocolate con churros en La Giralda.jpg",
+   "license": "CC BY-SA 2.5",
+   "artist": "Unknown authorUnknown author",
+   "page": "https://commons.wikimedia.org/wiki/File:Chocolate_con_churros_en_La_Giralda.jpg"
+  },
+  {
+   "file": "churros_1.jpg",
+   "title": "File:Chocolate con churros de lazo.jpg",
+   "license": "CC BY 2.0",
+   "artist": "LWY from Pasadena, USA",
+   "page": "https://commons.wikimedia.org/wiki/File:Chocolate_con_churros_de_lazo.jpg"
+  },
+  {
+   "file": "churros_2.jpg",
+   "title": "File:Chocolate con churros 20180604 094957.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "Jorge Castro Ruso",
+   "page": "https://commons.wikimedia.org/wiki/File:Chocolate_con_churros_20180604_094957.jpg"
+  },
+  {
+   "file": "churros_3.jpg",
+   "title": "File:Churros con chocolate Mexico (32539051653).jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "mike from New York, NY, US",
+   "page": "https://commons.wikimedia.org/wiki/File:Churros_con_chocolate_Mexico_(32539051653).jpg"
+  }
+ ],
+ "bravas": [
+  {
+   "file": "bravas_0.jpg",
+   "title": "File:Patatas bravas con salsa rosa picante.jpg",
+   "license": "CC BY 4.0",
+   "artist": "Juan Emilio Prades Bel",
+   "page": "https://commons.wikimedia.org/wiki/File:Patatas_bravas_con_salsa_rosa_picante.jpg"
+  },
+  {
+   "file": "bravas_1.jpg",
+   "title": "File:Patatas bravas. Tapa de bar (España).jpg",
+   "license": "CC BY 4.0",
+   "artist": "Juan Emilio Prades Bel",
+   "page": "https://commons.wikimedia.org/wiki/File:Patatas_bravas._Tapa_de_bar_(Espa%C3%B1a).jpg"
+  },
+  {
+   "file": "bravas_2.jpg",
+   "title": "File:Taberna Che - Braves.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Francesc Fort",
+   "page": "https://commons.wikimedia.org/wiki/File:Taberna_Che_-_Braves.jpg"
+  },
+  {
+   "file": "bravas_3.jpg",
+   "title": "File:Patatas con salsa Brava.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Juan Emilio Prades Bel",
+   "page": "https://commons.wikimedia.org/wiki/File:Patatas_con_salsa_Brava.jpg"
+  }
+ ],
+ "cremacat": [
+  {
+   "file": "cremacat_0.jpg",
+   "title": "File:Food in Catalonia 06.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Kritzolina",
+   "page": "https://commons.wikimedia.org/wiki/File:Food_in_Catalonia_06.jpg"
+  },
+  {
+   "file": "cremacat_1.jpg",
+   "title": "File:Crema catalana. Postre.jpg",
+   "license": "CC BY 4.0",
+   "artist": "Juan Emilio Prades Bel",
+   "page": "https://commons.wikimedia.org/wiki/File:Crema_catalana._Postre.jpg"
+  },
+  {
+   "file": "cremacat_2.jpg",
+   "title": "File:Cazuelita con crema catalana. Postre.jpg",
+   "license": "CC BY 4.0",
+   "artist": "Juan Emilio Prades Bel",
+   "page": "https://commons.wikimedia.org/wiki/File:Cazuelita_con_crema_catalana._Postre.jpg"
+  },
+  {
+   "file": "cremacat_3.jpg",
+   "title": "File:Crema catalana with carquinyoli.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Hammunculs",
+   "page": "https://commons.wikimedia.org/wiki/File:Crema_catalana_with_carquinyoli.jpg"
+  }
+ ],
+ "cocido": [
+  {
+   "file": "cocido_0.jpg",
+   "title": "File:Cocido madrileño.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Smnt",
+   "page": "https://commons.wikimedia.org/wiki/File:Cocido_madrile%C3%B1o.jpg"
+  },
+  {
+   "file": "cocido_1.jpg",
+   "title": "File:CocidoMadrileño.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "Tnarik",
+   "page": "https://commons.wikimedia.org/wiki/File:CocidoMadrile%C3%B1o.jpg"
+  },
+  {
+   "file": "cocido_2.jpg",
+   "title": "File:Sopa de Cocido Madrileño (4334544132).jpg",
+   "license": "CC BY 2.0",
+   "artist": "Javier Lastras from España/Spain",
+   "page": "https://commons.wikimedia.org/wiki/File:Sopa_de_Cocido_Madrile%C3%B1o_(4334544132).jpg"
+  },
+  {
+   "file": "cocido_3.jpg",
+   "title": "File:Carnes del cocido madrileño.jpg",
+   "license": "CC BY 2.0",
+   "artist": "Javier Lastras from España/Spain",
+   "page": "https://commons.wikimedia.org/wiki/File:Carnes_del_cocido_madrile%C3%B1o.jpg"
+  }
+ ],
+ "pisto": [
+  {
+   "file": "pisto_0.jpg",
+   "title": "File:Pisto Manchego 1.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Coralma*",
+   "page": "https://commons.wikimedia.org/wiki/File:Pisto_Manchego_1.jpg"
+  },
+  {
+   "file": "pisto_1.jpg",
+   "title": "File:Pisto manchego.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "El Mono Español",
+   "page": "https://commons.wikimedia.org/wiki/File:Pisto_manchego.jpg"
+  },
+  {
+   "file": "pisto_2.jpg",
+   "title": "File:Pisto, sofrito de verduras.jpg",
+   "license": "CC BY 4.0",
+   "artist": "Juan Emilio Prades Bel",
+   "page": "https://commons.wikimedia.org/wiki/File:Pisto,_sofrito_de_verduras.jpg"
+  },
+  {
+   "file": "pisto_3.jpg",
+   "title": "File:Pisto.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "Boca Dorada",
+   "page": "https://commons.wikimedia.org/wiki/File:Pisto.jpg"
+  }
+ ],
+ "pastilla": [
+  {
+   "file": "pastilla_0.jpg",
+   "title": "File:Pastilla d'agneau.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "le vrai Mister Jack",
+   "page": "https://commons.wikimedia.org/wiki/File:Pastilla_d%27agneau.jpg"
+  },
+  {
+   "file": "pastilla_1.jpg",
+   "title": "File:Pastilla marocaine recouverte de sucre glace.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "kochtopf",
+   "page": "https://commons.wikimedia.org/wiki/File:Pastilla_marocaine_recouverte_de_sucre_glace.jpg"
+  },
+  {
+   "file": "pastilla_2.jpg",
+   "title": "File:Pastilla au poulet et sucre glace.jpg",
+   "license": "CC BY 2.0",
+   "artist": "Bex.Walton",
+   "page": "https://commons.wikimedia.org/wiki/File:Pastilla_au_poulet_et_sucre_glace.jpg"
+  },
+  {
+   "file": "pastilla_3.jpg",
+   "title": "File:Pastilla Seafood.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "AmelGhouila",
+   "page": "https://commons.wikimedia.org/wiki/File:Pastilla_Seafood.jpg"
+  }
+ ],
+ "harira": [
+  {
+   "file": "harira_0.jpg",
+   "title": "File:Harira..JPG",
+   "license": "CC0",
+   "artist": "Miansari66",
+   "page": "https://commons.wikimedia.org/wiki/File:Harira..JPG"
+  },
+  {
+   "file": "harira_1.jpg",
+   "title": "File:Marokańska Harira z dodatkami.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "AxlsPacific",
+   "page": "https://commons.wikimedia.org/wiki/File:Maroka%C5%84ska_Harira_z_dodatkami.jpg"
+  },
+  {
+   "file": "harira_2.jpg",
+   "title": "File:Liat Portal for Foodie Disorder - Harira soup.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "HaJunkiyada",
+   "page": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Harira_soup.jpg"
+  },
+  {
+   "file": "harira_3.jpg",
+   "title": "File:Liat Portal for Foodie Disorder - Harira soup prepared at home.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "HaJunkiyada",
+   "page": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Harira_soup_prepared_at_home.jpg"
+  }
+ ],
+ "tanjia": [],
+ "rfissa": [
+  {
+   "file": "rfissa_0.jpg",
+   "title": "File:Rfissa de poulet marocaine.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Solima arizo",
+   "page": "https://commons.wikimedia.org/wiki/File:Rfissa_de_poulet_marocaine.jpg"
+  },
+  {
+   "file": "rfissa_1.jpg",
+   "title": "File:Moroccan Rfissa in Ifrane.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Anass Sedrati",
+   "page": "https://commons.wikimedia.org/wiki/File:Moroccan_Rfissa_in_Ifrane.jpg"
+  },
+  {
+   "file": "rfissa_2.jpg",
+   "title": "File:Rfissa de vendredi.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Alae.fahssy",
+   "page": "https://commons.wikimedia.org/wiki/File:Rfissa_de_vendredi.jpg"
+  },
+  {
+   "file": "rfissa_3.jpg",
+   "title": "File:Good appetite, Rfissa Moroccan , health and wellness.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Khadija Sadek Moudafi",
+   "page": "https://commons.wikimedia.org/wiki/File:Good_appetite,_Rfissa_Moroccan_,_health_and_wellness.jpg"
+  }
+ ],
+ "zaalouk": [
+  {
+   "file": "zaalouk_0.jpg",
+   "title": "File:Zaalouk-01.JPG",
+   "license": "CC BY-SA 3.0",
+   "artist": "Tamorlan",
+   "page": "https://commons.wikimedia.org/wiki/File:Zaalouk-01.JPG"
+  },
+  {
+   "file": "zaalouk_1.jpg",
+   "title": "File:Zaalouk 03.jpg",
+   "license": "CC0",
+   "artist": "Arnaud 25",
+   "page": "https://commons.wikimedia.org/wiki/File:Zaalouk_03.jpg"
+  },
+  {
+   "file": "zaalouk_2.jpg",
+   "title": "File:Zaalouk 01.jpg",
+   "license": "CC0",
+   "artist": "Arnaud 25",
+   "page": "https://commons.wikimedia.org/wiki/File:Zaalouk_01.jpg"
+  },
+  {
+   "file": "zaalouk_3.jpg",
+   "title": "File:Zaaluk.jpg",
+   "license": "CC BY 2.0",
+   "artist": "fugzu @ Flickr",
+   "page": "https://commons.wikimedia.org/wiki/File:Zaaluk.jpg"
+  }
+ ],
+ "msemen": [
+  {
+   "file": "msemen_0.jpg",
+   "title": "File:Msemmem.jpg",
+   "license": "CC0",
+   "artist": "Popo le Chien",
+   "page": "https://commons.wikimedia.org/wiki/File:Msemmem.jpg"
+  },
+  {
+   "file": "msemen_1.jpg",
+   "title": "File:Smen msemmen.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "Lucyin",
+   "page": "https://commons.wikimedia.org/wiki/File:Smen_msemmen.jpg"
+  },
+  {
+   "file": "msemen_2.jpg",
+   "title": "File:Msemmen.jpg",
+   "license": "CC0",
+   "artist": "Popo le Chien",
+   "page": "https://commons.wikimedia.org/wiki/File:Msemmen.jpg"
+  },
+  {
+   "file": "msemen_3.jpg",
+   "title": "File:Messemen kabyle.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Amemzrane",
+   "page": "https://commons.wikimedia.org/wiki/File:Messemen_kabyle.jpg"
+  }
+ ],
+ "mechoui": [
+  {
+   "file": "mechoui_0.jpg",
+   "title": "File:Mechoui.jpg",
+   "license": "CC BY 3.0",
+   "artist": "Andre Piquet",
+   "page": "https://commons.wikimedia.org/wiki/File:Mechoui.jpg"
+  },
+  {
+   "file": "mechoui_1.jpg",
+   "title": "File:Mechoui-01.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "Tonton Jaja",
+   "page": "https://commons.wikimedia.org/wiki/File:Mechoui-01.jpg"
+  },
+  {
+   "file": "mechoui_2.jpg",
+   "title": "File:Mechoui-2h.jpg",
+   "license": "Public domain",
+   "artist": "Grey Geezer",
+   "page": "https://commons.wikimedia.org/wiki/File:Mechoui-2h.jpg"
+  },
+  {
+   "file": "mechoui_3.jpg",
+   "title": "File:لحم خروف مشوي.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "إيان",
+   "page": "https://commons.wikimedia.org/wiki/File:%D9%84%D8%AD%D9%85_%D8%AE%D8%B1%D9%88%D9%81_%D9%85%D8%B4%D9%88%D9%8A.jpg"
+  }
+ ],
+ "briouates": [
+  {
+   "file": "briouates_0.jpg",
+   "title": "File:Moroccan food-02.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "Christian Muise",
+   "page": "https://commons.wikimedia.org/wiki/File:Moroccan_food-02.jpg"
+  },
+  {
+   "file": "briouates_1.jpg",
+   "title": "File:Briouat (cropped).jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "Christian Muise",
+   "page": "https://commons.wikimedia.org/wiki/File:Briouat_(cropped).jpg"
+  },
+  {
+   "file": "briouates_2.jpg",
+   "title": "File:Briouat - Kefta.jpg",
+   "license": "CC BY 2.0",
+   "artist": "jlastras",
+   "page": "https://commons.wikimedia.org/wiki/File:Briouat_-_Kefta.jpg"
+  },
+  {
+   "file": "briouates_3.jpg",
+   "title": "File:بريوة مغربية لرمضان.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Samira hiba",
+   "page": "https://commons.wikimedia.org/wiki/File:%D8%A8%D8%B1%D9%8A%D9%88%D8%A9_%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9_%D9%84%D8%B1%D9%85%D8%B6%D8%A7%D9%86.jpg"
+  }
+ ],
+ "bissara": [
+  {
+   "file": "bissara_0.jpg",
+   "title": "File:Piazza dei Signori - Torre Bissara - Piazza della Biade - Vicenza.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Didier Descouens",
+   "page": "https://commons.wikimedia.org/wiki/File:Piazza_dei_Signori_-_Torre_Bissara_-_Piazza_della_Biade_-_Vicenza.jpg"
+  },
+  {
+   "file": "bissara_1.jpg",
+   "title": "File:Piazza dei Signori - Torre Bissara - Vicenza.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Didier Descouens",
+   "page": "https://commons.wikimedia.org/wiki/File:Piazza_dei_Signori_-_Torre_Bissara_-_Vicenza.jpg"
+  },
+  {
+   "file": "bissara_2.jpg",
+   "title": "File:Bissara Moroccan split pea and fava bean soup.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Ruby Josephine Smith",
+   "page": "https://commons.wikimedia.org/wiki/File:Bissara_Moroccan_split_pea_and_fava_bean_soup.jpg"
+  },
+  {
+   "file": "bissara_3.jpg",
+   "title": "File:Bissara (Moroccan Dip).JPG",
+   "license": "CC0",
+   "artist": "Miansari66",
+   "page": "https://commons.wikimedia.org/wiki/File:Bissara_(Moroccan_Dip).JPG"
+  }
+ ],
+ "alpastor": [
+  {
+   "file": "alpastor_0.jpg",
+   "title": "File:(El Flaco) Al Pastor Tacos.jpg",
+   "license": "CC BY 2.0",
+   "artist": "City Foodsters",
+   "page": "https://commons.wikimedia.org/wiki/File:(El_Flaco)_Al_Pastor_Tacos.jpg"
+  },
+  {
+   "file": "alpastor_1.jpg",
+   "title": "File:001 Tacos de carnitas, carne asada y al pastor.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "Larry Miller",
+   "page": "https://commons.wikimedia.org/wiki/File:001_Tacos_de_carnitas,_carne_asada_y_al_pastor.jpg"
+  },
+  {
+   "file": "alpastor_2.jpg",
+   "title": "File:Tacos 2.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "Popo le Chien",
+   "page": "https://commons.wikimedia.org/wiki/File:Tacos_2.jpg"
+  },
+  {
+   "file": "alpastor_3.jpg",
+   "title": "File:Tacos al pastor, taco de panza.jpg",
+   "license": "CC BY 2.0",
+   "artist": "T.Tseng",
+   "page": "https://commons.wikimedia.org/wiki/File:Tacos_al_pastor,_taco_de_panza.jpg"
+  }
+ ],
+ "pozole": [
+  {
+   "file": "pozole_0.jpg",
+   "title": "File:Pozole, Mazatlán, 13 de marzo de 2023 02.jpg",
+   "license": "CC0",
+   "artist": "El Nuevo Doge",
+   "page": "https://commons.wikimedia.org/wiki/File:Pozole,_Mazatl%C3%A1n,_13_de_marzo_de_2023_02.jpg"
+  },
+  {
+   "file": "pozole_1.jpg",
+   "title": "File:Pozole Rojo Mexicano.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Lmartinez21",
+   "page": "https://commons.wikimedia.org/wiki/File:Pozole_Rojo_Mexicano.jpg"
+  },
+  {
+   "file": "pozole_2.jpg",
+   "title": "File:Making pozole - February 2023 - Sarah Stierch 08.jpg",
+   "license": "CC BY 4.0",
+   "artist": "Missvain",
+   "page": "https://commons.wikimedia.org/wiki/File:Making_pozole_-_February_2023_-_Sarah_Stierch_08.jpg"
+  },
+  {
+   "file": "pozole_3.jpg",
+   "title": "File:Making pozole - February 2023 - Sarah Stierch 13.jpg",
+   "license": "CC BY 4.0",
+   "artist": "Missvain",
+   "page": "https://commons.wikimedia.org/wiki/File:Making_pozole_-_February_2023_-_Sarah_Stierch_13.jpg"
+  }
+ ],
+ "cochinita": [
+  {
+   "file": "cochinita_0.jpg",
+   "title": "File:Cochinita pibil 2.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "Popo le Chien",
+   "page": "https://commons.wikimedia.org/wiki/File:Cochinita_pibil_2.jpg"
+  },
+  {
+   "file": "cochinita_1.jpg",
+   "title": "File:Cochinita pibil, Mazatlán, 22 de marzo de 2023.jpg",
+   "license": "CC0",
+   "artist": "El Nuevo Doge",
+   "page": "https://commons.wikimedia.org/wiki/File:Cochinita_pibil,_Mazatl%C3%A1n,_22_de_marzo_de_2023.jpg"
+  },
+  {
+   "file": "cochinita_2.jpg",
+   "title": "File:Cochinita Pibil Casera, México.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Petrvs III",
+   "page": "https://commons.wikimedia.org/wiki/File:Cochinita_Pibil_Casera,_M%C3%A9xico.jpg"
+  },
+  {
+   "file": "cochinita_3.jpg",
+   "title": "File:Bao con cochinita pibil.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Francesc Fort",
+   "page": "https://commons.wikimedia.org/wiki/File:Bao_con_cochinita_pibil.jpg"
+  }
+ ],
+ "nogada": [
+  {
+   "file": "nogada_0.jpg",
+   "title": "File:Chiles en nogada La Ópera CDMX 01.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Correogsk",
+   "page": "https://commons.wikimedia.org/wiki/File:Chiles_en_nogada_La_%C3%93pera_CDMX_01.jpg"
+  },
+  {
+   "file": "nogada_1.jpg",
+   "title": "File:Chiles en Nogada estilo Orizaba 01.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Isaacvp",
+   "page": "https://commons.wikimedia.org/wiki/File:Chiles_en_Nogada_estilo_Orizaba_01.jpg"
+  },
+  {
+   "file": "nogada_2.jpg",
+   "title": "File:Chile en nogada de Calpan.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Fraguando",
+   "page": "https://commons.wikimedia.org/wiki/File:Chile_en_nogada_de_Calpan.jpg"
+  },
+  {
+   "file": "nogada_3.jpg",
+   "title": "File:2017 Chiles en Nogada Mexican food.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Julián Monge-Nájera",
+   "page": "https://commons.wikimedia.org/wiki/File:2017_Chiles_en_Nogada_Mexican_food.jpg"
+  }
+ ],
+ "guacamole": [
+  {
+   "file": "guacamole_0.jpg",
+   "title": "File:Guacamole IMGP1271.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "Nikodem Nijaki",
+   "page": "https://commons.wikimedia.org/wiki/File:Guacamole_IMGP1271.jpg"
+  },
+  {
+   "file": "guacamole_1.jpg",
+   "title": "File:Guacamole IMGP1265.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "Nikodem Nijaki",
+   "page": "https://commons.wikimedia.org/wiki/File:Guacamole_IMGP1265.jpg"
+  },
+  {
+   "file": "guacamole_2.jpg",
+   "title": "File:Guacamole IMGP1277.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "Nikodem Nijaki",
+   "page": "https://commons.wikimedia.org/wiki/File:Guacamole_IMGP1277.jpg"
+  },
+  {
+   "file": "guacamole_3.jpg",
+   "title": "File:Guacamole IMGP1256.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "Nikodem Nijaki",
+   "page": "https://commons.wikimedia.org/wiki/File:Guacamole_IMGP1256.jpg"
+  }
+ ],
+ "tamales": [
+  {
+   "file": "tamales_0.jpg",
+   "title": "File:Tamales Mexicanos sweet corn tamales 01.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Usernet123u",
+   "page": "https://commons.wikimedia.org/wiki/File:Tamales_Mexicanos_sweet_corn_tamales_01.jpg"
+  },
+  {
+   "file": "tamales_1.jpg",
+   "title": "File:Tamales Mexicanos sweet corn tamales 03.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Usernet123u",
+   "page": "https://commons.wikimedia.org/wiki/File:Tamales_Mexicanos_sweet_corn_tamales_03.jpg"
+  },
+  {
+   "file": "tamales_2.jpg",
+   "title": "File:Tamales Mexicanos sweet corn tamales 06.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Usernet123u",
+   "page": "https://commons.wikimedia.org/wiki/File:Tamales_Mexicanos_sweet_corn_tamales_06.jpg"
+  },
+  {
+   "file": "tamales_3.jpg",
+   "title": "File:Tamales Mexicanos sweet corn tamales 05.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Usernet123u",
+   "page": "https://commons.wikimedia.org/wiki/File:Tamales_Mexicanos_sweet_corn_tamales_05.jpg"
+  }
+ ],
+ "enchiladas": [
+  {
+   "file": "enchiladas_0.jpg",
+   "title": "File:Festival de la Enchilada 59.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Lameirasb",
+   "page": "https://commons.wikimedia.org/wiki/File:Festival_de_la_Enchilada_59.jpg"
+  },
+  {
+   "file": "enchiladas_1.jpg",
+   "title": "File:Enchiladas de mole caseras.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Alejandra Mendoza Santillan",
+   "page": "https://commons.wikimedia.org/wiki/File:Enchiladas_de_mole_caseras.jpg"
+  },
+  {
+   "file": "enchiladas_2.jpg",
+   "title": "File:Enchiladas con salsa roja.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Dahyana Yasada R. R.",
+   "page": "https://commons.wikimedia.org/wiki/File:Enchiladas_con_salsa_roja.jpg"
+  },
+  {
+   "file": "enchiladas_3.jpg",
+   "title": "File:Platón de enchiladas, arroz, nopales y cebollas.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Dahyana Yasada R. R.",
+   "page": "https://commons.wikimedia.org/wiki/File:Plat%C3%B3n_de_enchiladas,_arroz,_nopales_y_cebollas.jpg"
+  }
+ ],
+ "tlayuda": [
+  {
+   "file": "tlayuda_0.jpg",
+   "title": "File:Tlayuda de cecina y chorizo en Coyoacán.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "François Calvaresi",
+   "page": "https://commons.wikimedia.org/wiki/File:Tlayuda_de_cecina_y_chorizo_en_Coyoac%C3%A1n.jpg"
+  },
+  {
+   "file": "tlayuda_1.jpg",
+   "title": "File:TLAYUDA.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Gomez.erick",
+   "page": "https://commons.wikimedia.org/wiki/File:TLAYUDA.jpg"
+  },
+  {
+   "file": "tlayuda_2.jpg",
+   "title": "File:Oaxacan tlayuda.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Jj saezdeo",
+   "page": "https://commons.wikimedia.org/wiki/File:Oaxacan_tlayuda.jpg"
+  },
+  {
+   "file": "tlayuda_3.jpg",
+   "title": "File:Tlayuda vendor in Oaxaca City.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Alex Haulman",
+   "page": "https://commons.wikimedia.org/wiki/File:Tlayuda_vendor_in_Oaxaca_City.jpg"
+  }
+ ],
+ "sushi": [
+  {
+   "file": "sushi_0.jpg",
+   "title": "File:Sashimi of São Paulo.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Wilfredor",
+   "page": "https://commons.wikimedia.org/wiki/File:Sashimi_of_S%C3%A3o_Paulo.jpg"
+  },
+  {
+   "file": "sushi_1.jpg",
+   "title": "File:Nigiri Sushi (26505096851).jpg",
+   "license": "CC BY 2.0",
+   "artist": "Tim Reckmann from Hamm, Deutschland",
+   "page": "https://commons.wikimedia.org/wiki/File:Nigiri_Sushi_(26505096851).jpg"
+  },
+  {
+   "file": "sushi_2.jpg",
+   "title": "File:Nigiri Sushi (25966163204).jpg",
+   "license": "CC BY 2.0",
+   "artist": "Tim Reckmann from Hamm, Deutschland",
+   "page": "https://commons.wikimedia.org/wiki/File:Nigiri_Sushi_(25966163204).jpg"
+  },
+  {
+   "file": "sushi_3.jpg",
+   "title": "File:Nigiri Sushi (26478732232).jpg",
+   "license": "CC BY 2.0",
+   "artist": "Tim Reckmann from Hamm, Deutschland",
+   "page": "https://commons.wikimedia.org/wiki/File:Nigiri_Sushi_(26478732232).jpg"
+  }
+ ],
+ "tempura": [
+  {
+   "file": "tempura_0.jpg",
+   "title": "File:Tempura 01.jpg",
+   "license": "CC BY 2.0",
+   "artist": "Yaco*",
+   "page": "https://commons.wikimedia.org/wiki/File:Tempura_01.jpg"
+  },
+  {
+   "file": "tempura_1.jpg",
+   "title": "File:KISU no TEMPURA or Sillaginidae Sand Borer Tempura 2021.jpg",
+   "license": "CC0",
+   "artist": "ウィキ太郎(WikiTaro)",
+   "page": "https://commons.wikimedia.org/wiki/File:KISU_no_TEMPURA_or_Sillaginidae_Sand_Borer_Tempura_2021.jpg"
+  },
+  {
+   "file": "tempura_2.jpg",
+   "title": "File:Tempura and Hegisoba in Yuzawa.jpg",
+   "license": "CC0",
+   "artist": "Syced",
+   "page": "https://commons.wikimedia.org/wiki/File:Tempura_and_Hegisoba_in_Yuzawa.jpg"
+  },
+  {
+   "file": "tempura_3.jpg",
+   "title": "File:Maitake Mushroom Tempura 2021 Grifola frondosa 舞茸の天ぷら.jpg",
+   "license": "CC0",
+   "artist": "ウィキ太郎(WikiTaro)",
+   "page": "https://commons.wikimedia.org/wiki/File:Maitake_Mushroom_Tempura_2021_Grifola_frondosa_%E8%88%9E%E8%8C%B8%E3%81%AE%E5%A4%A9%E3%81%B7%E3%82%89.jpg"
+  }
+ ],
+ "okonomiyaki": [
+  {
+   "file": "okonomiyaki_0.jpg",
+   "title": "File:Okonomiyaki 001.jpg",
+   "license": "CC BY 2.0",
+   "artist": "ume-y",
+   "page": "https://commons.wikimedia.org/wiki/File:Okonomiyaki_001.jpg"
+  },
+  {
+   "file": "okonomiyaki_1.jpg",
+   "title": "File:Okonomiyaki with tomato and cheeze (4716607523).jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "pelican from Tokyo, Japan",
+   "page": "https://commons.wikimedia.org/wiki/File:Okonomiyaki_with_tomato_and_cheeze_(4716607523).jpg"
+  },
+  {
+   "file": "okonomiyaki_2.jpg",
+   "title": "File:Preparing okonomiyaki in Hiroshima.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "EllieBellie25",
+   "page": "https://commons.wikimedia.org/wiki/File:Preparing_okonomiyaki_in_Hiroshima.jpg"
+  }
+ ],
+ "takoyaki": [
+  {
+   "file": "takoyaki_0.jpg",
+   "title": "File:Takoyaki by yomi955.jpg",
+   "license": "CC BY 2.0",
+   "artist": "heiwa4126",
+   "page": "https://commons.wikimedia.org/wiki/File:Takoyaki_by_yomi955.jpg"
+  },
+  {
+   "file": "takoyaki_1.jpg",
+   "title": "File:Takoyaki balls (1).jpg",
+   "license": "CC0",
+   "artist": "Fumikas Sagisavas",
+   "page": "https://commons.wikimedia.org/wiki/File:Takoyaki_balls_(1).jpg"
+  },
+  {
+   "file": "takoyaki_2.jpg",
+   "title": "File:Takoyaki dish.jpg",
+   "license": "CC0",
+   "artist": "sayo ts",
+   "page": "https://commons.wikimedia.org/wiki/File:Takoyaki_dish.jpg"
+  },
+  {
+   "file": "takoyaki_3.jpg",
+   "title": "File:Takoyaki Wanaka at LaLaport Kadoma Kuromon Ichiba Market.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Mr.ちゅらさん",
+   "page": "https://commons.wikimedia.org/wiki/File:Takoyaki_Wanaka_at_LaLaport_Kadoma_Kuromon_Ichiba_Market.jpg"
+  }
+ ],
+ "udon": [
+  {
+   "file": "udon_0.jpg",
+   "title": "File:Kama-age sanuki udon by sekido in Takamatsu, Kagawa.jpg",
+   "license": "CC BY 2.0",
+   "artist": "sekido",
+   "page": "https://commons.wikimedia.org/wiki/File:Kama-age_sanuki_udon_by_sekido_in_Takamatsu,_Kagawa.jpg"
+  },
+  {
+   "file": "udon_1.jpg",
+   "title": "File:Sanuki udon by open-arms.jpg",
+   "license": "CC BY 2.0",
+   "artist": "open-arms",
+   "page": "https://commons.wikimedia.org/wiki/File:Sanuki_udon_by_open-arms.jpg"
+  },
+  {
+   "file": "udon_2.jpg",
+   "title": "File:Sanuki udon noodle (2223059600).jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "pelican from Tokyo, Japan",
+   "page": "https://commons.wikimedia.org/wiki/File:Sanuki_udon_noodle_(2223059600).jpg"
+  },
+  {
+   "file": "udon_3.jpg",
+   "title": "File:Sanuki udon restaurant by nyaa birdies perch in Shibuya.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "nyaa_birdies_perch from Sanuki Udon Restaurant Jabukama in Shibuya, Tokyo",
+   "page": "https://commons.wikimedia.org/wiki/File:Sanuki_udon_restaurant_by_nyaa_birdies_perch_in_Shibuya.jpg"
+  }
+ ],
+ "gyoza": [
+  {
+   "file": "gyoza_0.jpg",
+   "title": "File:Taipei Taiwan Jiaozi-Restaurant-14th-avenue-02.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "CEphoto, Uwe Aranas",
+   "page": "https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Jiaozi-Restaurant-14th-avenue-02.jpg"
+  },
+  {
+   "file": "gyoza_1.jpg",
+   "title": "File:Gyoza no Antei - 3.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Enming Yan / 闫恩铭",
+   "page": "https://commons.wikimedia.org/wiki/File:Gyoza_no_Antei_-_3.jpg"
+  },
+  {
+   "file": "gyoza_2.jpg",
+   "title": "File:10pc Gyoza plate.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Wesoree",
+   "page": "https://commons.wikimedia.org/wiki/File:10pc_Gyoza_plate.jpg"
+  },
+  {
+   "file": "gyoza_3.jpg",
+   "title": "File:Gyoza - Tora.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Francesc Fort",
+   "page": "https://commons.wikimedia.org/wiki/File:Gyoza_-_Tora.jpg"
+  }
+ ],
+ "katsudon": [
+  {
+   "file": "katsudon_0.jpg",
+   "title": "File:Katsudon 001.jpg",
+   "license": "CC0",
+   "artist": "Ocdp",
+   "page": "https://commons.wikimedia.org/wiki/File:Katsudon_001.jpg"
+  },
+  {
+   "file": "katsudon_1.jpg",
+   "title": "File:Katsudon 501.jpg",
+   "license": "CC0",
+   "artist": "Ocdp",
+   "page": "https://commons.wikimedia.org/wiki/File:Katsudon_501.jpg"
+  },
+  {
+   "file": "katsudon_2.jpg",
+   "title": "File:Katsudon 601.jpg",
+   "license": "CC0",
+   "artist": "Ocdp",
+   "page": "https://commons.wikimedia.org/wiki/File:Katsudon_601.jpg"
+  },
+  {
+   "file": "katsudon_3.jpg",
+   "title": "File:Katsudon of Katsuten.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "ノボホショコロトソ",
+   "page": "https://commons.wikimedia.org/wiki/File:Katsudon_of_Katsuten.jpg"
+  }
+ ],
+ "misoshiru": [
+  {
+   "file": "misoshiru_0.jpg",
+   "title": "File:Pholiota microspora miso soup 001.jpg",
+   "license": "CC0",
+   "artist": "Ocdp",
+   "page": "https://commons.wikimedia.org/wiki/File:Pholiota_microspora_miso_soup_001.jpg"
+  },
+  {
+   "file": "misoshiru_1.jpg",
+   "title": "File:Miso Soup 001.jpg",
+   "license": "CC0",
+   "artist": "Ocdp",
+   "page": "https://commons.wikimedia.org/wiki/File:Miso_Soup_001.jpg"
+  },
+  {
+   "file": "misoshiru_2.jpg",
+   "title": "File:Uchimame-no-misoshiru, Miso soup, Japan.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Tail furry",
+   "page": "https://commons.wikimedia.org/wiki/File:Uchimame-no-misoshiru,_Miso_soup,_Japan.jpg"
+  },
+  {
+   "file": "misoshiru_3.jpg",
+   "title": "File:Littleneck clam miso soup 001.jpg",
+   "license": "CC0",
+   "artist": "Ocdp",
+   "page": "https://commons.wikimedia.org/wiki/File:Littleneck_clam_miso_soup_001.jpg"
+  }
+ ],
+ "onigiri": [
+  {
+   "file": "onigiri_0.jpg",
+   "title": "File:Japanese rice balls (onigiri).jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "tednmiki",
+   "page": "https://commons.wikimedia.org/wiki/File:Japanese_rice_balls_(onigiri).jpg"
+  },
+  {
+   "file": "onigiri_1.jpg",
+   "title": "File:Salmon onigiri by yomi955.jpg",
+   "license": "CC BY 2.0",
+   "artist": "yomi955",
+   "page": "https://commons.wikimedia.org/wiki/File:Salmon_onigiri_by_yomi955.jpg"
+  },
+  {
+   "file": "onigiri_2.jpg",
+   "title": "File:Negi Miso onigiri - Onigiri Heads 2025-09-18.jpg",
+   "license": "CC0",
+   "artist": "Andy Li",
+   "page": "https://commons.wikimedia.org/wiki/File:Negi_Miso_onigiri_-_Onigiri_Heads_2025-09-18.jpg"
+  },
+  {
+   "file": "onigiri_3.jpg",
+   "title": "File:Onigiri combo meal from Minneapolis, Minnesota.jpg",
+   "license": "CC0",
+   "artist": "Funknendai",
+   "page": "https://commons.wikimedia.org/wiki/File:Onigiri_combo_meal_from_Minneapolis,_Minnesota.jpg"
+  }
+ ],
+ "butterchicken": [
+  {
+   "file": "butterchicken_0.jpg",
+   "title": "File:Chicken makhani.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "stu_spivack",
+   "page": "https://commons.wikimedia.org/wiki/File:Chicken_makhani.jpg"
+  },
+  {
+   "file": "butterchicken_1.jpg",
+   "title": "File:Butter chicken, chickpeas, and rice in a takeout container.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Ser Amantio di Nicolao",
+   "page": "https://commons.wikimedia.org/wiki/File:Butter_chicken,_chickpeas,_and_rice_in_a_takeout_container.jpg"
+  },
+  {
+   "file": "butterchicken_2.jpg",
+   "title": "File:Butter chicken rice bowl - chaiiwala 2024-02-10.jpg",
+   "license": "CC0",
+   "artist": "Andy Li",
+   "page": "https://commons.wikimedia.org/wiki/File:Butter_chicken_rice_bowl_-_chaiiwala_2024-02-10.jpg"
+  },
+  {
+   "file": "butterchicken_3.jpg",
+   "title": "File:Butter Chicken (2446546141).jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "Mack Male from Edmonton, AB, Canada",
+   "page": "https://commons.wikimedia.org/wiki/File:Butter_Chicken_(2446546141).jpg"
+  }
+ ],
+ "dosa": [
+  {
+   "file": "dosa_0.jpg",
+   "title": "File:Masala dosa 01.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Marajozkee",
+   "page": "https://commons.wikimedia.org/wiki/File:Masala_dosa_01.jpg"
+  },
+  {
+   "file": "dosa_1.jpg",
+   "title": "File:Masala dosa 2.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Harpreet 712",
+   "page": "https://commons.wikimedia.org/wiki/File:Masala_dosa_2.jpg"
+  },
+  {
+   "file": "dosa_2.jpg",
+   "title": "File:Masala Dosa and Vada.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Gannu03",
+   "page": "https://commons.wikimedia.org/wiki/File:Masala_Dosa_and_Vada.jpg"
+  },
+  {
+   "file": "dosa_3.jpg",
+   "title": "File:Masala Dosa in Ballygunge, Kolkata.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Billjones94",
+   "page": "https://commons.wikimedia.org/wiki/File:Masala_Dosa_in_Ballygunge,_Kolkata.jpg"
+  }
+ ],
+ "chole": [
+  {
+   "file": "chole_0.jpg",
+   "title": "File:Chole Bhature 6.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Gannu03",
+   "page": "https://commons.wikimedia.org/wiki/File:Chole_Bhature_6.jpg"
+  },
+  {
+   "file": "chole_1.jpg",
+   "title": "File:Chole Bhature 5.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Gannu03",
+   "page": "https://commons.wikimedia.org/wiki/File:Chole_Bhature_5.jpg"
+  },
+  {
+   "file": "chole_2.jpg",
+   "title": "File:Chole Bhature 3.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Gannu03",
+   "page": "https://commons.wikimedia.org/wiki/File:Chole_Bhature_3.jpg"
+  },
+  {
+   "file": "chole_3.jpg",
+   "title": "File:Chole Bhature 1.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Gaurav Dhwaj Khadka",
+   "page": "https://commons.wikimedia.org/wiki/File:Chole_Bhature_1.jpg"
+  }
+ ],
+ "roganjosh": [
+  {
+   "file": "roganjosh_0.jpg",
+   "title": "File:Rogan josh02.jpg",
+   "license": "CC BY 2.0",
+   "artist": "gahdjun",
+   "page": "https://commons.wikimedia.org/wiki/File:Rogan_josh02.jpg"
+  },
+  {
+   "file": "roganjosh_1.jpg",
+   "title": "File:Mutton rogan josh.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "stu_spivack",
+   "page": "https://commons.wikimedia.org/wiki/File:Mutton_rogan_josh.jpg"
+  },
+  {
+   "file": "roganjosh_2.jpg",
+   "title": "File:Rogan Josh Kashmiri.jpg",
+   "license": "CC BY 3.0",
+   "artist": "Spice Eats",
+   "page": "https://commons.wikimedia.org/wiki/File:Rogan_Josh_Kashmiri.jpg"
+  },
+  {
+   "file": "roganjosh_3.jpg",
+   "title": "File:Rogan Josh.JPG",
+   "license": "CC0",
+   "artist": "Miansari66",
+   "page": "https://commons.wikimedia.org/wiki/File:Rogan_Josh.JPG"
+  }
+ ],
+ "vindaloo": [
+  {
+   "file": "vindaloo_0.jpg",
+   "title": "File:Vindaloo ingredients.png",
+   "license": "CC BY-SA 4.0",
+   "artist": "GeoO",
+   "page": "https://commons.wikimedia.org/wiki/File:Vindaloo_ingredients.png"
+  },
+  {
+   "file": "vindaloo_1.jpg",
+   "title": "File:Vegetable vindaloo on a bed of green peas - Massachusetts.jpg",
+   "license": "CC0",
+   "artist": "Daderot",
+   "page": "https://commons.wikimedia.org/wiki/File:Vegetable_vindaloo_on_a_bed_of_green_peas_-_Massachusetts.jpg"
+  },
+  {
+   "file": "vindaloo_2.jpg",
+   "title": "File:Kuřecí vindalú.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "I would appreciate being notified if you use my work outside Wikimedia.\nMore of ",
+   "page": "https://commons.wikimedia.org/wiki/File:Ku%C5%99ec%C3%AD_vindal%C3%BA.jpg"
+  },
+  {
+   "file": "vindaloo_3.jpg",
+   "title": "File:Vindaloo goa.jpg",
+   "license": "CC BY 2.0",
+   "artist": "The original uploader was Elitre at Italian Wikipedia.",
+   "page": "https://commons.wikimedia.org/wiki/File:Vindaloo_goa.jpg"
+  }
+ ],
+ "panipuri": [
+  {
+   "file": "panipuri_0.jpg",
+   "title": "File:Crispy Pani Puri.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Teena Sometimes",
+   "page": "https://commons.wikimedia.org/wiki/File:Crispy_Pani_Puri.jpg"
+  },
+  {
+   "file": "panipuri_1.jpg",
+   "title": "File:Puri For Pani Puri.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Gaurav Dhwaj Khadka",
+   "page": "https://commons.wikimedia.org/wiki/File:Puri_For_Pani_Puri.jpg"
+  },
+  {
+   "file": "panipuri_2.jpg",
+   "title": "File:Pani puri 2.jpg",
+   "license": "CC BY 3.0",
+   "artist": "Sri Namagiri Mahalakshmi Baskaran",
+   "page": "https://commons.wikimedia.org/wiki/File:Pani_puri_2.jpg"
+  },
+  {
+   "file": "panipuri_3.jpg",
+   "title": "File:Golgappa (Pani Puri).jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Anugya..Chidar",
+   "page": "https://commons.wikimedia.org/wiki/File:Golgappa_(Pani_Puri).jpg"
+  }
+ ],
+ "dalmakhani": [
+  {
+   "file": "dalmakhani_0.jpg",
+   "title": "File:Dal Makhani along with Naan.jpg",
+   "license": "CC BY 2.0",
+   "artist": "Barry Pousman from New York, NY",
+   "page": "https://commons.wikimedia.org/wiki/File:Dal_Makhani_along_with_Naan.jpg"
+  },
+  {
+   "file": "dalmakhani_1.jpg",
+   "title": "File:Dal makhani.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "TarnishedPath",
+   "page": "https://commons.wikimedia.org/wiki/File:Dal_makhani.jpg"
+  },
+  {
+   "file": "dalmakhani_2.jpg",
+   "title": "File:Dal Makhani..JPG",
+   "license": "CC0",
+   "artist": "Miansari66",
+   "page": "https://commons.wikimedia.org/wiki/File:Dal_Makhani..JPG"
+  },
+  {
+   "file": "dalmakhani_3.jpg",
+   "title": "File:Dal Makhani 01.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Marajozkee",
+   "page": "https://commons.wikimedia.org/wiki/File:Dal_Makhani_01.jpg"
+  }
+ ],
+ "tandoori": [
+  {
+   "file": "tandoori_0.jpg",
+   "title": "File:Tandoori chicken Indian.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "pelican",
+   "page": "https://commons.wikimedia.org/wiki/File:Tandoori_chicken_Indian.jpg"
+  },
+  {
+   "file": "tandoori_1.jpg",
+   "title": "File:Grilled Tandoori chicken.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Rajeeb Dutta",
+   "page": "https://commons.wikimedia.org/wiki/File:Grilled_Tandoori_chicken.jpg"
+  },
+  {
+   "file": "tandoori_2.jpg",
+   "title": "File:Tandoori Chicken 4of4 (8736303292).jpg",
+   "license": "CC BY 2.0",
+   "artist": "Breville USA",
+   "page": "https://commons.wikimedia.org/wiki/File:Tandoori_Chicken_4of4_(8736303292).jpg"
+  },
+  {
+   "file": "tandoori_3.jpg",
+   "title": "File:Tandoori Chicken Homemade.JPG",
+   "license": "CC BY-SA 4.0",
+   "artist": "Vrinda Arora",
+   "page": "https://commons.wikimedia.org/wiki/File:Tandoori_Chicken_Homemade.JPG"
+  }
+ ],
+ "palak": [
+  {
+   "file": "palak_0.jpg",
+   "title": "File:Palakpaneer Rayagada Odisha 0009.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Lopanayak",
+   "page": "https://commons.wikimedia.org/wiki/File:Palakpaneer_Rayagada_Odisha_0009.jpg"
+  },
+  {
+   "file": "palak_1.jpg",
+   "title": "File:Palak Paneer at WCI 2023.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Koshur",
+   "page": "https://commons.wikimedia.org/wiki/File:Palak_Paneer_at_WCI_2023.jpg"
+  },
+  {
+   "file": "palak_2.jpg",
+   "title": "File:Palak Paneer curry on plate.jpg",
+   "license": "CC BY 2.0",
+   "artist": "Daniel Zemans",
+   "page": "https://commons.wikimedia.org/wiki/File:Palak_Paneer_curry_on_plate.jpg"
+  },
+  {
+   "file": "palak_3.jpg",
+   "title": "File:Palak Paneer (Cottage cheese in spinach gravy).jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "DreamyFlutura11",
+   "page": "https://commons.wikimedia.org/wiki/File:Palak_Paneer_(Cottage_cheese_in_spinach_gravy).jpg"
   }
  ]
 }
