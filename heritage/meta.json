@@ -1,294 +1,174 @@
 {
- "berkoukes": [
+ "chwa": [
   {
-   "file": "berkoukes_0.jpg",
-   "title": "File:Couscous osbanes de sardines.jpg",
-   "license": "CC0",
-   "artist": "DrRachT",
-   "page": "https://commons.wikimedia.org/wiki/File:Couscous_osbanes_de_sardines.jpg"
+   "file": "chwa_0.jpg",
+   "title": "File:Traditional Greek Easter lamb and Kokoretsi.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "ΙΣΧΣΝΙΚΑ-888",
+   "page": "https://commons.wikimedia.org/wiki/File:Traditional_Greek_Easter_lamb_and_Kokoretsi.jpg"
   },
   {
-   "file": "berkoukes_1.jpg",
-   "title": "File:Moroccan cuscus, from Casablanca, September 2018.jpg",
+   "file": "chwa_1.jpg",
+   "title": "File:Lamb Shish Kebab - Istanbul Grill, Metairie, Louisiana 23 March 2026.jpg",
+   "license": "CC BY 4.0",
+   "artist": "Paul Lowry",
+   "page": "https://commons.wikimedia.org/wiki/File:Lamb_Shish_Kebab_-_Istanbul_Grill,_Metairie,_Louisiana_23_March_2026.jpg"
+  },
+  {
+   "file": "chwa_2.jpg",
+   "title": "File:Ju Xiang Yuan Restaurant, Ottawa - Grilled Lamb (6453828095).jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "John Thompson from Iqaluit",
+   "page": "https://commons.wikimedia.org/wiki/File:Ju_Xiang_Yuan_Restaurant,_Ottawa_-_Grilled_Lamb_(6453828095).jpg"
+  },
+  {
+   "file": "chwa_3.jpg",
+   "title": "File:Lamb kebabs on grill at Ancient City of Kashi (20230923224509).jpg",
    "license": "CC BY-SA 4.0",
-   "artist": "Lmmima",
-   "page": "https://commons.wikimedia.org/wiki/File:Moroccan_cuscus,_from_Casablanca,_September_2018.jpg"
-  },
-  {
-   "file": "berkoukes_2.jpg",
-   "title": "File:Berkoukes.jpg",
-   "license": "CC BY-SA 3.0",
-   "artist": "Indif",
-   "page": "https://commons.wikimedia.org/wiki/File:Berkoukes.jpg"
-  },
-  {
-   "file": "berkoukes_3.jpg",
-   "title": "File:Couscous-1.jpg",
-   "license": "CC BY-SA 3.0",
-   "artist": "Rainer Zenz",
-   "page": "https://commons.wikimedia.org/wiki/File:Couscous-1.jpg"
+   "artist": "N509FZ",
+   "page": "https://commons.wikimedia.org/wiki/File:Lamb_kebabs_on_grill_at_Ancient_City_of_Kashi_(20230923224509).jpg"
   }
  ],
- "mtewem": [
+ "omelette": [
   {
-   "file": "mtewem_0.jpg",
-   "title": "File:Mtewem.jpg",
+   "file": "omelette_0.jpg",
+   "title": "File:Sandwich frites-omelette.jpg",
    "license": "CC BY-SA 4.0",
-   "artist": "Slothtysloth",
-   "page": "https://commons.wikimedia.org/wiki/File:Mtewem.jpg"
-  },
-  {
-   "file": "mtewem_1.jpg",
-   "title": "File:Algerian mtewen.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Israfel90",
-   "page": "https://commons.wikimedia.org/wiki/File:Algerian_mtewen.jpg"
-  },
-  {
-   "file": "mtewem_2.jpg",
-   "title": "File:Mtewemalgerois.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Slothtysloth",
-   "page": "https://commons.wikimedia.org/wiki/File:Mtewemalgerois.jpg"
-  },
-  {
-   "file": "mtewem_3.jpg",
-   "title": "File:Mtewemsauce.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Slothtysloth",
-   "page": "https://commons.wikimedia.org/wiki/File:Mtewemsauce.jpg"
+   "artist": "3esban",
+   "page": "https://commons.wikimedia.org/wiki/File:Sandwich_frites-omelette.jpg"
   }
  ],
- "chwa": [],
- "chakhdfar": [
+ "bayda": [],
+ "hmiss": [
   {
-   "file": "chakhdfar_0.jpg",
+   "file": "hmiss_0.jpg",
+   "title": "File:Salade Mechouia au thon.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Emna Mizouni",
+   "page": "https://commons.wikimedia.org/wiki/File:Salade_Mechouia_au_thon.jpg"
+  },
+  {
+   "file": "hmiss_1.jpg",
+   "title": "File:SaladeMechouia 2013.JPG",
+   "license": "CC BY 3.0",
+   "artist": "Citizen59",
+   "page": "https://commons.wikimedia.org/wiki/File:SaladeMechouia_2013.JPG"
+  },
+  {
+   "file": "hmiss_2.jpg",
+   "title": "File:سلاطة مشوية، مع الزيتون الاخضر، تونس 2020.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Habib M'henni",
+   "page": "https://commons.wikimedia.org/wiki/File:%D8%B3%D9%84%D8%A7%D8%B7%D8%A9_%D9%85%D8%B4%D9%88%D9%8A%D8%A9%D8%8C_%D9%85%D8%B9_%D8%A7%D9%84%D8%B2%D9%8A%D8%AA%D9%88%D9%86_%D8%A7%D9%84%D8%A7%D8%AE%D8%B6%D8%B1%D8%8C_%D8%AA%D9%88%D9%86%D8%B3_2020.jpg"
+  },
+  {
+   "file": "hmiss_3.jpg",
+   "title": "File:Grilled Salad.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Meriemou",
+   "page": "https://commons.wikimedia.org/wiki/File:Grilled_Salad.jpg"
+  }
+ ],
+ "sfiriya": [],
+ "msila": [
+  {
+   "file": "msila_0.jpg",
    "title": "File:Lyon 7e - Restaurant Air du Pays - Chakhchoukha Biskra Poulet.jpg",
    "license": "CC BY-SA 4.0",
    "artist": "Sebleouf",
    "page": "https://commons.wikimedia.org/wiki/File:Lyon_7e_-_Restaurant_Air_du_Pays_-_Chakhchoukha_Biskra_Poulet.jpg"
   },
   {
-   "file": "chakhdfar_1.jpg",
+   "file": "msila_1.jpg",
    "title": "File:Chakhchoukha9.JPG",
    "license": "CC BY-SA 3.0",
    "artist": "Xufanc",
    "page": "https://commons.wikimedia.org/wiki/File:Chakhchoukha9.JPG"
   },
   {
-   "file": "chakhdfar_2.jpg",
-   "title": "File:Algerian Chakhchoukha.jpg",
-   "license": "CC0",
-   "artist": "Plwnt",
-   "page": "https://commons.wikimedia.org/wiki/File:Algerian_Chakhchoukha.jpg"
-  },
-  {
-   "file": "chakhdfar_3.jpg",
-   "title": "File:Lyon 7e - Restaurant Air du Pays - Chakhchoukha Biskra Agneau.jpg",
-   "license": "CC0",
-   "artist": "Romainbehar",
-   "page": "https://commons.wikimedia.org/wiki/File:Lyon_7e_-_Restaurant_Air_du_Pays_-_Chakhchoukha_Biskra_Agneau.jpg"
-  }
- ],
- "omelette": [],
- "bayda": [],
- "biskria": [
-  {
-   "file": "biskria_0.jpg",
-   "title": "File:Lyon 7e - Restaurant Air du Pays - Chakhchoukha Biskra Agneau.jpg",
-   "license": "CC0",
-   "artist": "Romainbehar",
-   "page": "https://commons.wikimedia.org/wiki/File:Lyon_7e_-_Restaurant_Air_du_Pays_-_Chakhchoukha_Biskra_Agneau.jpg"
-  },
-  {
-   "file": "biskria_1.jpg",
-   "title": "File:Lyon 7e - Restaurant Air du Pays - Chakhchoukha Biskra Poulet.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Sebleouf",
-   "page": "https://commons.wikimedia.org/wiki/File:Lyon_7e_-_Restaurant_Air_du_Pays_-_Chakhchoukha_Biskra_Poulet.jpg"
-  },
-  {
-   "file": "biskria_2.jpg",
-   "title": "File:Chakhchoukha Biskria.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Nassima1Nilsen",
-   "page": "https://commons.wikimedia.org/wiki/File:Chakhchoukha_Biskria.jpg"
-  },
-  {
-   "file": "biskria_3.jpg",
-   "title": "File:شخشوخة بسكرية.jpg",
-   "license": "CC0",
-   "artist": "Plwnt",
-   "page": "https://commons.wikimedia.org/wiki/File:%D8%B4%D8%AE%D8%B4%D9%88%D8%AE%D8%A9_%D8%A8%D8%B3%D9%83%D8%B1%D9%8A%D8%A9.jpg"
-  }
- ],
- "tikourbabine": [
-  {
-   "file": "tikourbabine_0.jpg",
-   "title": "File:Taasbante.JPG",
-   "license": "CC BY-SA 4.0",
-   "artist": "Ms10vc",
-   "page": "https://commons.wikimedia.org/wiki/File:Taasbante.JPG"
-  }
- ],
- "maakouda": [
-  {
-   "file": "maakouda_0.jpg",
-   "title": "File:Maakouda.jpg",
+   "file": "msila_2.jpg",
+   "title": "File:Shakshuka by Calliopejen1.jpg",
    "license": "CC BY-SA 3.0",
-   "artist": "Jeouit",
-   "page": "https://commons.wikimedia.org/wiki/File:Maakouda.jpg"
+   "artist": "Calliopejen1",
+   "page": "https://commons.wikimedia.org/wiki/File:Shakshuka_by_Calliopejen1.jpg"
   },
   {
-   "file": "maakouda_1.jpg",
-   "title": "File:طبق معقودة.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "إيان",
-   "page": "https://commons.wikimedia.org/wiki/File:%D8%B7%D8%A8%D9%82_%D9%85%D8%B9%D9%82%D9%88%D8%AF%D8%A9.jpg"
+   "file": "msila_3.jpg",
+   "title": "File:Shakshuka1.jpg",
+   "license": "CC BY 2.0",
+   "artist": "Joe Mahoney",
+   "page": "https://commons.wikimedia.org/wiki/File:Shakshuka1.jpg"
   }
  ],
- "hmiss": [],
- "sfiriya": [],
+ "mhajeb": [],
  "coca": [
   {
    "file": "coca_0.jpg",
-   "title": "File:Menu Chicken Rouge 20210821.jpg",
-   "license": "CC BY 4.0",
-   "artist": "ArtyElAnanas",
-   "page": "https://commons.wikimedia.org/wiki/File:Menu_Chicken_Rouge_20210821.jpg"
-  }
- ],
- "kesra": [
-  {
-   "file": "kesra_0.jpg",
-   "title": "File:Panorama kesra.jpg",
+   "title": "File:Oran Park demolished Coca Cola stand.jpg",
    "license": "CC BY-SA 3.0",
-   "artist": "Mehdi Ben Gharbia",
-   "page": "https://commons.wikimedia.org/wiki/File:Panorama_kesra.jpg"
-  },
-  {
-   "file": "kesra_1.jpg",
-   "title": "File:Khobz Kesra algérien.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Wicanto",
-   "page": "https://commons.wikimedia.org/wiki/File:Khobz_Kesra_alg%C3%A9rien.jpg"
-  },
-  {
-   "file": "kesra_2.jpg",
-   "title": "File:Kesra Thafsuth Chaw Rbiaa.png",
-   "license": "CC0",
-   "artist": "Deedelus",
-   "page": "https://commons.wikimedia.org/wiki/File:Kesra_Thafsuth_Chaw_Rbiaa.png"
-  },
-  {
-   "file": "kesra_3.jpg",
-   "title": "File:La ville de kesra photo 2.jpg",
-   "license": "CC BY 4.0",
-   "artist": "Mohamedkouka",
-   "page": "https://commons.wikimedia.org/wiki/File:La_ville_de_kesra_photo_2.jpg"
+   "artist": "Mad94d",
+   "page": "https://commons.wikimedia.org/wiki/File:Oran_Park_demolished_Coca_Cola_stand.jpg"
   }
  ],
- "frik": [
+ "tikourbabine2": [],
+ "bayda2": [
   {
-   "file": "frik_0.jpg",
-   "title": "File:Chorba frik algerienne.jpg",
+   "file": "bayda2_0.jpg",
+   "title": "File:Tavuklu şehriye.jpg",
    "license": "CC BY-SA 4.0",
-   "artist": "Slothtysloth",
-   "page": "https://commons.wikimedia.org/wiki/File:Chorba_frik_algerienne.jpg"
+   "artist": "E4024",
+   "page": "https://commons.wikimedia.org/wiki/File:Tavuklu_%C5%9Fehriye.jpg"
   },
   {
-   "file": "frik_1.jpg",
-   "title": "File:Chorba Frik.jpg",
+   "file": "bayda2_1.jpg",
+   "title": "File:Laksa Betawi 2.jpg",
    "license": "CC BY-SA 4.0",
-   "artist": "IssamBarhoumi",
-   "page": "https://commons.wikimedia.org/wiki/File:Chorba_Frik.jpg"
+   "artist": "Gunawan Kartapranata",
+   "page": "https://commons.wikimedia.org/wiki/File:Laksa_Betawi_2.jpg"
   },
   {
-   "file": "frik_2.jpg",
-   "title": "File:Chourba.JPG",
+   "file": "bayda2_2.jpg",
+   "title": "File:Laksa Betawi 1.jpg",
    "license": "CC BY-SA 4.0",
-   "artist": "Touzrimounir",
-   "page": "https://commons.wikimedia.org/wiki/File:Chourba.JPG"
+   "artist": "Gunawan Kartapranata",
+   "page": "https://commons.wikimedia.org/wiki/File:Laksa_Betawi_1.jpg"
+  },
+  {
+   "file": "bayda2_3.jpg",
+   "title": "File:Laksa Betawi 3.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Gunawan Kartapranata",
+   "page": "https://commons.wikimedia.org/wiki/File:Laksa_Betawi_3.jpg"
   }
  ],
- "msila": [],
- "tlitli": [
+ "omelette2": [
   {
-   "file": "tlitli_0.jpg",
-   "title": "File:Tlétlé with vegetables.JPG",
-   "license": "CC BY-SA 4.0",
-   "artist": "Romaissa",
-   "page": "https://commons.wikimedia.org/wiki/File:Tl%C3%A9tl%C3%A9_with_vegetables.JPG"
+   "file": "omelette2_0.jpg",
+   "title": "File:Bocadillo de Tortilla de patatas - 34.jpg",
+   "license": "CC BY 3.0",
+   "artist": "Tamorlan",
+   "page": "https://commons.wikimedia.org/wiki/File:Bocadillo_de_Tortilla_de_patatas_-_34.jpg"
   },
   {
-   "file": "tlitli_1.jpg",
-   "title": "File:Montlitli.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Slothtysloth",
-   "page": "https://commons.wikimedia.org/wiki/File:Montlitli.jpg"
+   "file": "omelette2_1.jpg",
+   "title": "File:Tortilla de Patatas (Corte transversal).jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "Tamorlan",
+   "page": "https://commons.wikimedia.org/wiki/File:Tortilla_de_Patatas_(Corte_transversal).jpg"
   },
   {
-   "file": "tlitli_2.jpg",
-   "title": "File:Illustrations of the birds of Jamaica (19936332880).jpg",
-   "license": "Public domain",
-   "artist": "Gosse, Philip Henry",
-   "page": "https://commons.wikimedia.org/wiki/File:Illustrations_of_the_birds_of_Jamaica_(19936332880).jpg"
+   "file": "omelette2_2.jpg",
+   "title": "File:Tortilla de patatas con cebolla.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Mentxuwiki",
+   "page": "https://commons.wikimedia.org/wiki/File:Tortilla_de_patatas_con_cebolla.jpg"
+  },
+  {
+   "file": "omelette2_3.jpg",
+   "title": "File:Tortilla de patata - San Sebastián.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "Kent Wang",
+   "page": "https://commons.wikimedia.org/wiki/File:Tortilla_de_patata_-_San_Sebasti%C3%A1n.jpg"
   }
- ],
- "bourek": [
-  {
-   "file": "bourek_0.jpg",
-   "title": "File:Bourek laadjine.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Waran18",
-   "page": "https://commons.wikimedia.org/wiki/File:Bourek_laadjine.jpg"
-  },
-  {
-   "file": "bourek_1.jpg",
-   "title": "File:Bourek algérien.jpg",
-   "license": "CC0",
-   "artist": "Sib2022",
-   "page": "https://commons.wikimedia.org/wiki/File:Bourek_alg%C3%A9rien.jpg"
-  },
-  {
-   "file": "bourek_2.jpg",
-   "title": "File:Bourek in Libya.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "NAWARAH ALI FARAJ",
-   "page": "https://commons.wikimedia.org/wiki/File:Bourek_in_Libya.jpg"
-  },
-  {
-   "file": "bourek_3.jpg",
-   "title": "File:Bourekalgerien.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Slothtysloth",
-   "page": "https://commons.wikimedia.org/wiki/File:Bourekalgerien.jpg"
-  }
- ],
- "kwaret": [
-  {
-   "file": "kwaret_0.jpg",
-   "title": "File:Kwaret - of Mostaganem.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Dezedien",
-   "page": "https://commons.wikimedia.org/wiki/File:Kwaret_-_of_Mostaganem.jpg"
-  },
-  {
-   "file": "kwaret_1.jpg",
-   "title": "File:كسكس بالمعمر.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Dzkouslavia",
-   "page": "https://commons.wikimedia.org/wiki/File:%D9%83%D8%B3%D9%83%D8%B3_%D8%A8%D8%A7%D9%84%D9%85%D8%B9%D9%85%D8%B1.jpg"
-  }
- ],
- "pizza": [
-  {
-   "file": "pizza_0.jpg",
-   "title": "File:بيتزا كاري.png",
-   "license": "CC BY 4.0",
-   "artist": "El Mono Español",
-   "page": "https://commons.wikimedia.org/wiki/File:%D8%A8%D9%8A%D8%AA%D8%B2%D8%A7_%D9%83%D8%A7%D8%B1%D9%8A.png"
-  }
- ],
- "mhajeb": []
+ ]
 }
