@@ -1,259 +1,32 @@
 {
- "quenelle": [
+ "stjacques": [
   {
-   "file": "quenelle_0.jpg",
-   "title": "File:Quenelle de brochet sauce Nantua - restaurant Place Bernard (février 2023) - 3.jpg",
-   "license": "CC0",
-   "artist": "Benoît Prieur",
-   "page": "https://commons.wikimedia.org/wiki/File:Quenelle_de_brochet_sauce_Nantua_-_restaurant_Place_Bernard_(f%C3%A9vrier_2023)_-_3.jpg"
-  },
-  {
-   "file": "quenelle_1.jpg",
-   "title": "File:Quenelle de brochet sauce Nantua.jpg",
-   "license": "CC BY-SA 3.0",
-   "artist": "Fryke27",
-   "page": "https://commons.wikimedia.org/wiki/File:Quenelle_de_brochet_sauce_Nantua.jpg"
-  },
-  {
-   "file": "quenelle_2.jpg",
-   "title": "File:Quenelle de brochet sauce Nantua - restaurant Place Bernard (février 2023).jpg",
-   "license": "CC0",
-   "artist": "Benoît Prieur",
-   "page": "https://commons.wikimedia.org/wiki/File:Quenelle_de_brochet_sauce_Nantua_-_restaurant_Place_Bernard_(f%C3%A9vrier_2023).jpg"
-  },
-  {
-   "file": "quenelle_3.jpg",
-   "title": "File:Quenelle de brochet sauce Nantua - restaurant Place Bernard (février 2023) - 2.jpg",
-   "license": "CC0",
-   "artist": "Benoît Prieur",
-   "page": "https://commons.wikimedia.org/wiki/File:Quenelle_de_brochet_sauce_Nantua_-_restaurant_Place_Bernard_(f%C3%A9vrier_2023)_-_2.jpg"
-  }
- ],
- "risotto": [
-  {
-   "file": "risotto_0.jpg",
-   "title": "File:Risotto ai funghi porcini.JPG",
-   "license": "CC BY-SA 3.0",
-   "artist": "Number55",
-   "page": "https://commons.wikimedia.org/wiki/File:Risotto_ai_funghi_porcini.JPG"
-  },
-  {
-   "file": "risotto_1.jpg",
-   "title": "File:Garrison newcomers enjoy taste of Italy during the Benvenuti Program (8267407).jpg",
-   "license": "Public domain",
-   "artist": "U.S. Army USAG-V by Laura Kreider",
-   "page": "https://commons.wikimedia.org/wiki/File:Garrison_newcomers_enjoy_taste_of_Italy_during_the_Benvenuti_Program_(8267407).jpg"
-  }
- ],
- "stjacques": [],
- "spaetzle": [
-  {
-   "file": "spaetzle_0.jpg",
-   "title": "File:2015 0718 Käsespätzle Sölden.jpg",
+   "file": "stjacques_0.jpg",
+   "title": "File:Pan Seared Scallops from the Elora Mill Hotel Restaurant.jpg",
    "license": "CC BY-SA 4.0",
-   "artist": "Takeaway",
-   "page": "https://commons.wikimedia.org/wiki/File:2015_0718_K%C3%A4sesp%C3%A4tzle_S%C3%B6lden.jpg"
+   "artist": "Gogerr",
+   "page": "https://commons.wikimedia.org/wiki/File:Pan_Seared_Scallops_from_the_Elora_Mill_Hotel_Restaurant.jpg"
   },
   {
-   "file": "spaetzle_1.jpg",
-   "title": "File:Käsespätzle Wurstküche Tübingen.jpg",
-   "license": "CC0",
-   "artist": "Dktue",
-   "page": "https://commons.wikimedia.org/wiki/File:K%C3%A4sesp%C3%A4tzle_Wurstk%C3%BCche_T%C3%BCbingen.jpg"
-  },
-  {
-   "file": "spaetzle_2.jpg",
-   "title": "File:Käsespätzle Zellbergstüberl.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Benreis",
-   "page": "https://commons.wikimedia.org/wiki/File:K%C3%A4sesp%C3%A4tzle_Zellbergst%C3%BCberl.jpg"
-  },
-  {
-   "file": "spaetzle_3.jpg",
-   "title": "File:Käsespätzle mit Zwiebeln und Beilagensalat.JPG",
-   "license": "CC BY-SA 3.0",
-   "artist": "4028mdk09",
-   "page": "https://commons.wikimedia.org/wiki/File:K%C3%A4sesp%C3%A4tzle_mit_Zwiebeln_und_Beilagensalat.JPG"
-  }
- ],
- "molenegro": [
-  {
-   "file": "molenegro_0.jpg",
-   "title": "File:Mole negro de Oaxaca con arroz.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "ProtoplasmaKid",
-   "page": "https://commons.wikimedia.org/wiki/File:Mole_negro_de_Oaxaca_con_arroz.jpg"
-  },
-  {
-   "file": "molenegro_1.jpg",
-   "title": "File:Mole negro mexicano.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Kjkszpj123",
-   "page": "https://commons.wikimedia.org/wiki/File:Mole_negro_mexicano.jpg"
-  },
-  {
-   "file": "molenegro_2.jpg",
-   "title": "File:Mole negro mexicano con arroz.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Kjkszpj123",
-   "page": "https://commons.wikimedia.org/wiki/File:Mole_negro_mexicano_con_arroz.jpg"
-  },
-  {
-   "file": "molenegro_3.jpg",
-   "title": "File:Pollo Mole Negro Restaurante Terranova.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "StellarD",
-   "page": "https://commons.wikimedia.org/wiki/File:Pollo_Mole_Negro_Restaurante_Terranova.jpg"
-  }
- ],
- "yassa": [
-  {
-   "file": "yassa_0.jpg",
-   "title": "File:Poulet yassa 01.jpg",
-   "license": "CC0",
-   "artist": "Arnaud 25",
-   "page": "https://commons.wikimedia.org/wiki/File:Poulet_yassa_01.jpg"
-  },
-  {
-   "file": "yassa_1.jpg",
-   "title": "File:Poulet yassa 04.jpg",
-   "license": "CC0",
-   "artist": "Arnaud 25",
-   "page": "https://commons.wikimedia.org/wiki/File:Poulet_yassa_04.jpg"
-  },
-  {
-   "file": "yassa_2.jpg",
-   "title": "File:Poulet yassa 03.jpg",
-   "license": "CC0",
-   "artist": "Arnaud 25",
-   "page": "https://commons.wikimedia.org/wiki/File:Poulet_yassa_03.jpg"
-  },
-  {
-   "file": "yassa_3.jpg",
-   "title": "File:Yassa poulet, Senegal.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Alweaver2",
-   "page": "https://commons.wikimedia.org/wiki/File:Yassa_poulet,_Senegal.jpg"
-  }
- ],
- "kibbeh": [
-  {
-   "file": "kibbeh_0.jpg",
-   "title": "File:Fried lamb kibbeh 1.JPG",
-   "license": "CC BY-SA 3.0",
-   "artist": "Dr. Bernd Gross",
-   "page": "https://commons.wikimedia.org/wiki/File:Fried_lamb_kibbeh_1.JPG"
-  },
-  {
-   "file": "kibbeh_1.jpg",
-   "title": "File:Kibbeh3.jpg",
-   "license": "CC BY-SA 3.0",
-   "artist": "Bazel",
-   "page": "https://commons.wikimedia.org/wiki/File:Kibbeh3.jpg"
-  },
-  {
-   "file": "kibbeh_2.jpg",
-   "title": "File:Liat Portal for Foodie Disorder - Baked kubbe (Kibbeh) with potatoes, tahini, and vegetables.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "HaJunkiyada",
-   "page": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Baked_kubbe_(Kibbeh)_with_potatoes,_tahini,_and_vegetables.jpg"
-  },
-  {
-   "file": "kibbeh_3.jpg",
-   "title": "File:קובה חתוך לשניים - Kibbeh split in two.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Revital Salomon",
-   "page": "https://commons.wikimedia.org/wiki/File:%D7%A7%D7%95%D7%91%D7%94_%D7%97%D7%AA%D7%95%D7%9A_%D7%9C%D7%A9%D7%A0%D7%99%D7%99%D7%9D_-_Kibbeh_split_in_two.jpg"
-  }
- ],
- "ribeye": [
-  {
-   "file": "ribeye_0.jpg",
-   "title": "File:Grillfleisch Rindersteak Ribeye (26152657274).jpg",
+   "file": "stjacques_1.jpg",
+   "title": "File:Seared Scallops (14620330273).jpg",
    "license": "CC BY 2.0",
-   "artist": "dronepicr",
-   "page": "https://commons.wikimedia.org/wiki/File:Grillfleisch_Rindersteak_Ribeye_(26152657274).jpg"
+   "artist": "Ralph Daily from Birmingham, United States",
+   "page": "https://commons.wikimedia.org/wiki/File:Seared_Scallops_(14620330273).jpg"
   },
   {
-   "file": "ribeye_1.jpg",
-   "title": "File:Ribeye steak and asparagus.jpg",
-   "license": "CC BY 3.0",
-   "artist": "danielhallpresentsdotcom",
-   "page": "https://commons.wikimedia.org/wiki/File:Ribeye_steak_and_asparagus.jpg"
+   "file": "stjacques_2.jpg",
+   "title": "File:Seared scallops Bengaluru, Karnataka, India.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "Charles Haynes",
+   "page": "https://commons.wikimedia.org/wiki/File:Seared_scallops_Bengaluru,_Karnataka,_India.jpg"
   },
   {
-   "file": "ribeye_2.jpg",
-   "title": "File:Beef Ribeye Steak & Shrimps with Potato Fries.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Ceeseven",
-   "page": "https://commons.wikimedia.org/wiki/File:Beef_Ribeye_Steak_%26_Shrimps_with_Potato_Fries.jpg"
-  },
-  {
-   "file": "ribeye_3.jpg",
-   "title": "File:Ribeye steak, chips, béarnaise sauce.jpg",
-   "license": "CC0",
-   "artist": "Socket0",
-   "page": "https://commons.wikimedia.org/wiki/File:Ribeye_steak,_chips,_b%C3%A9arnaise_sauce.jpg"
-  }
- ],
- "koshari": [
-  {
-   "file": "koshari_0.jpg",
-   "title": "File:Egyptian food Koshary.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Dina Said ",
-   "page": "https://commons.wikimedia.org/wiki/File:Egyptian_food_Koshary.jpg"
-  },
-  {
-   "file": "koshari_1.jpg",
-   "title": "File:Egyptian Koshari.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Basma",
-   "page": "https://commons.wikimedia.org/wiki/File:Egyptian_Koshari.jpg"
-  },
-  {
-   "file": "koshari_2.jpg",
-   "title": "File:Хлів - panoramio (2).jpg",
-   "license": "CC BY 3.0",
-   "artist": "Rechnoj skitalec",
-   "page": "https://commons.wikimedia.org/wiki/File:%D0%A5%D0%BB%D1%96%D0%B2_-_panoramio_(2).jpg"
-  },
-  {
-   "file": "koshari_3.jpg",
-   "title": "File:Куќа во Кошари.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Kiril Simeonovski",
-   "page": "https://commons.wikimedia.org/wiki/File:%D0%9A%D1%83%D1%9C%D0%B0_%D0%B2%D0%BE_%D0%9A%D0%BE%D1%88%D0%B0%D1%80%D0%B8.jpg"
-  }
- ],
- "padthai": [
-  {
-   "file": "padthai_0.jpg",
-   "title": "File:Phat Thai kung Chang Khien street stall.jpg",
-   "license": "CC BY-SA 3.0",
-   "artist": "Takeaway",
-   "page": "https://commons.wikimedia.org/wiki/File:Phat_Thai_kung_Chang_Khien_street_stall.jpg"
-  },
-  {
-   "file": "padthai_1.jpg",
-   "title": "File:Pad Thai in Thai Cooking School in Sukhothai.jpg",
-   "license": "CC BY-SA 4.0",
-   "artist": "Elmschrat",
-   "page": "https://commons.wikimedia.org/wiki/File:Pad_Thai_in_Thai_Cooking_School_in_Sukhothai.jpg"
-  },
-  {
-   "file": "padthai_2.jpg",
-   "title": "File:Thai-Pad-Thai 2023-06-04.jpg",
-   "license": "CC0",
-   "artist": "Andy Li",
-   "page": "https://commons.wikimedia.org/wiki/File:Thai-Pad-Thai_2023-06-04.jpg"
-  },
-  {
-   "file": "padthai_3.jpg",
-   "title": "File:Pad Thai with Pork - Unithai.jpg",
-   "license": "CC0",
-   "artist": "Andy Li",
-   "page": "https://commons.wikimedia.org/wiki/File:Pad_Thai_with_Pork_-_Unithai.jpg"
+   "file": "stjacques_3.jpg",
+   "title": "File:Seared Scallops (6737779653).jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "Jen Arrr",
+   "page": "https://commons.wikimedia.org/wiki/File:Seared_Scallops_(6737779653).jpg"
   }
  ]
 }
